@@ -1,9 +1,0 @@
-{
-  "version" : "v1.0",
-  "author" : "AnomNom",
-  "requires" : ["ManyTabsInventorsTableModAddonP1"],
-  "description" : "temp",
-  "name" : "ManyTabsInventorsTableModAddonP2",
-  "friendlyName" : "Many Tabs - Inventor's Table Mod Tab (Part 2)",
-  "priority" : 9999
-}

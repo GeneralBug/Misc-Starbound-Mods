@@ -1,1 +1,1 @@
-So, for some reason Tabula Rasa constructs it's config with lua at runtime, which is really weird. I added the disableTimer thing to a copy of the script and redirected the object to use it, but if the mod ever gets rewritten that will break (which might be why you're here).
+STabula Rasa constructs it's config with lua at runtime, so I added the disableTimer thing to a copy of the script and redirected the object to use it, but if the mod ever gets rewritten that will break
