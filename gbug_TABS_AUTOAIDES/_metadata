@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a tab to the wiring station for Automation Aides stuff, requires Many Tabs.\n\nOn a side note, I thought it was weird that AA used the same workshop thumbnail as Steambound, so I made a new one with less jpeg for both, which someone might find useful.",
+  "friendlyName" : "Many Tabs Automation Aides",
+  "link" : "steam://url/CommunityFilePage/2811170539",
+  "name" : "ManyTabsAutoAides",
+  "priority" : 2,
+  "steamContentId" : "2811170539",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1.1"
+}

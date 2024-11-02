@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a tab for handcrafted Elithian stuff, requires Handcrafting Expansion and Many Tabs.\n\nI used the Trink rope for the icon to match [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2780692766]Handcrafting Expansion Adjustments[/url], though I'm not sure about it. Tell me if you have a better idea.\n\nTell me if I missed any items or if there are items added by addons.",
+  "friendlyName" : "Many Tabs Elithian Handcrafting",
+  "link" : "steam://url/CommunityFilePage/2807790309",
+  "name" : "ManyTabsElithianHandcrafting",
+  "priority" : 2,
+  "steamContentId" : "2807790309",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1"
+}

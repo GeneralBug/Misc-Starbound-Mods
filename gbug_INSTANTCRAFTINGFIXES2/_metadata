@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Turns out it's a one line patch to get instant crafting on a station, a list of supported mods can be found in the discussions.\n\nTell me if you find unsupported stations, since I don't think the other two main ones are being updated.",
+  "friendlyName" : "Instant Crafting MORE Fixes",
+  "link" : "steam://url/CommunityFilePage/2809626987",
+  "name" : "InstantCraftingMoreFixes",
+  "priority" : 9001,
+  "steamContentId" : "2809626987",
+  "tags" : "Crafting and Building",
+  "version" : "v1.9"
+}

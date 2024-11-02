@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "heavypipe",
+    "count" : 20
+  },
+  "groups" : [ "inventorstable", "materials", "steambound" ]
+}

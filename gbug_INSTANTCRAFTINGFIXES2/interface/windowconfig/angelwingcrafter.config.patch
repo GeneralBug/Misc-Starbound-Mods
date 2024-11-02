@@ -1,0 +1,7 @@
+[
+	{
+		"op": "add",
+		"path": "/disableTimer",
+		"value":true
+	}
+]

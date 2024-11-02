@@ -1,0 +1,49 @@
+{
+	"objectName" : "gbug_bigcontainerlink2",
+	"printable" : false,
+	"rarity" : "Common",
+	"description" : "Place next to container.
+^blue;Input: ^white;item network
+^red;Lower output: ^white;item network^reset;
+^red;Upper outputs: ^white;Partial/Complete Fill^reset;",
+	"shortdescription" : "Storage Bridge V2",
+	"race" : "generic",
+
+	"category" : "wire",
+	"price" : 75,
+
+	"animation" : "/objects/kheAA/kheAA_containerLink/kheAA_containerlink.animation",
+	
+	"inventoryIcon" : "/objects/kheAA/kheAA_containerLink/kheAA_itemlinkicon.png",
+	"orientations" : 
+	[
+		{
+			"imageLayers" : 
+			[
+				{"image":"/objects/kheAA/kheAA_containerLink/kheAA_itemlinkoriginal.png:default.off","fullbright" : false},
+				{"image":"/objects/kheAA/kheAA_containerLink/kheAA_itemlinkoriginalfullbright.png:default.off"}
+			],
+			"imagePosition" : [0, 0],
+			"frames" : 1,
+			"spaceScan" : 0.1,
+			"anchors" : [ "background" ]
+		}
+	],
+	"animationParts" : 
+	{
+		"Itemlink" : "kheAA_itemlinkoriginal.png"
+	},
+	"animationPosition" : [0, 0],
+
+	"scripts" : [ "/objects/kheAA/kheAA_containerLink/kheAA_containerLink.lua" ],
+	"scriptDelta" : 5,
+
+	"inputNodes" : [[0,0]],
+	"outputNodes" : [[1,0],[0,1],[1,1]],
+	"kheAA_inDataNode":0,
+	"kheAA_outDataNode":0,
+	"kheAA_outPartialFillNode":1,
+	"kheAA_outCompleteFillNode":2,
+
+	"interval" : 5
+}

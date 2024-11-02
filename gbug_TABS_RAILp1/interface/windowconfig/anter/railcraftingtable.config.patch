@@ -1,0 +1,38 @@
+[
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": 
+		{
+			"file": "/interface/mt_crafting/gbug/tabicon_railpoint.png",
+			"filter": ["railpoint"]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": 
+		{
+			"file": "/interface/mt_crafting/gbug/tabicon_railplatform.png",
+			"filter": ["railplatform"]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": 
+		{
+			"file": "/interface/mt_crafting/gbug/tabicon_railtool.png",
+			"filter": ["railtool"]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": 
+		{
+			"file": "/interface/mt_crafting/anter/tabicon_BB_other.png",
+			"filter": ["rail"]
+		}
+	}
+]

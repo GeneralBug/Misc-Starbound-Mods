@@ -1,0 +1,12 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a tab for the standalone version of the Betabound repair tools to Handcrafting Expansion, requires Many Tabs.\n",
+  "friendlyName" : "Many Tabs Repair Tools",
+  "includes" : ["XRC_BETA_STARBOUND:REPAIRTOOLS"],
+  "link" : "steam://url/CommunityFilePage/2844115488",
+  "name" : "ManyTabsBBRepairTools2",
+  "priority" : 2,
+  "steamContentId" : "2844115488",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1.2"
+}

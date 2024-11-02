@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Patches the steampunk rail and pet stations to use Handcrafting Expansion's versions so they work together properly.",
+  "friendlyName" : "SteampunkCrafting - Handcrafting Expansion Patch",
+  "link" : "steam://url/CommunityFilePage/2817147073",
+  "name" : "ManyTabsSteampunkHandcraftingPatch",
+  "priority" : 9001,
+  "steamContentId" : "2817147073",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1"
+}

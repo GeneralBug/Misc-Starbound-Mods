@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a mannequin tab to the spinning wheel, requires Many Tabs.\n\nIt only includes the mannequins I happen to have installed at the moment, so tell me if you find others so I can add them.",
+  "friendlyName" : "Many Tabs Spinning Wheel Mannequins",
+  "link" : "steam://url/CommunityFilePage/2822547226",
+  "name" : "ManyTabsSpinningMannequins",
+  "priority" : 3,
+  "steamContentId" : "2822547226",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1.1"
+}

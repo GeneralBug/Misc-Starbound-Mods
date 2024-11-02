@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a tab for Job Offers, requires Handcrafting Expansion and Many Tabs.\n\nSupports [url=https://steamcommunity.com/sharedfiles/filedetails/?id=740332881]Chef[/url], [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2646673935]Maid[/url]. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=745346013]Hunter[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2796652393]Datebound[/url]. \n\nTell me if there are others you want supported.",
+  "friendlyName" : "Many Tabs Job Offers",
+  "link" : "steam://url/CommunityFilePage/2804362243",
+  "name" : "ManyTabsJobOffers",
+  "priority" : 2,
+  "steamContentId" : "2804362243",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1.2"
+}

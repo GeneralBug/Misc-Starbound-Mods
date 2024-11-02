@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 2 },
+    { "item" : "tungstenbar", "count" : 2 },
+    { "item" : "volatilepowder", "count" : 1 },
+	{ "item" : "wire", "count" : 10}
+  ],
+  "output" : { "item" : "salvagebooster", "count" : 1 },
+  "groups" : [  "craftingmech", "salvage"  ]
+}

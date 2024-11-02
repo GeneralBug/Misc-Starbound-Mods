@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a tab for handcrafted Avali stuff, requires Handcrafting Expansion and Many Tabs.\n\nTell me if you find unsupported Avali mods so that I can add them.",
+  "friendlyName" : "Many Tabs Avali Handcrafting",
+  "link" : "steam://url/CommunityFilePage/2811705013",
+  "name" : "ManyTabsAvaliHandcrafting",
+  "priority" : 2,
+  "steamContentId" : "2811705013",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1.1"
+}

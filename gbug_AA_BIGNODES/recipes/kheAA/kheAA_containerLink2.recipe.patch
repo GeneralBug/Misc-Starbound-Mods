@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/output/item",
+        "value": "gbug_bigcontainerlink2"
+    },
+    {
+        "op": "replace",
+        "path": "/input/1/item",
+        "value": "gbug_bigcapacitysensor"
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/item",
+        "value": "gbug_bigcontainerlink"
+    }
+]

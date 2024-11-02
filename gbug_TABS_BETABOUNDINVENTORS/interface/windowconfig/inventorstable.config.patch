@@ -1,0 +1,10 @@
+[
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": {
+			"file": "/interface/mt_crafting/gbug/tabicon_beamaxe.png",
+			"filter": ["sb_inventors"]
+		}
+	}
+]

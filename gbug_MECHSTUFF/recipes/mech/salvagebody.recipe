@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 2 },
+    { "item" : "tungstenbar", "count" : 3 },
+	{ "item" : "wire", "count" : 10}
+  ],
+  "output" : { "item" : "salvagebody", "count" : 1 },
+  "groups" : [  "craftingmech", "salvage"  ]
+}

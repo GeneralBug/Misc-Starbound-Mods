@@ -1,0 +1,8 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a tab for More Outpost Objects, requires Inventor's Table Mod Tab and Many Tabs.",
+  "friendlyName" : "Many Tabs More Outpost Objects (Inventor's Table)",
+  "name" : "BugMechStuff",
+  "priority" : 2,
+  "version" : "v1"
+}

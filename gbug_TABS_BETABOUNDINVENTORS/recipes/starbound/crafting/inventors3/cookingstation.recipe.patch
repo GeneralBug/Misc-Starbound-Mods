@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/groups/2",
+        "value": "sb_inventors"
+    }
+]

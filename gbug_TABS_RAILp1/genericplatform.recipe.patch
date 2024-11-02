@@ -1,0 +1,11 @@
+[
+	{
+		"op": "test",
+		"path": "/groups"
+	},
+	{
+		"op": "add",
+		"path": "/groups/-",
+		"value": "railplatform"
+	}
+]

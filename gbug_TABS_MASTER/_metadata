@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "A tiny addon to AnomNom's Handcrafting Expansion Adjustments, an addon to Anter583's Handcrafting Expansion, which replaces the two other icons. ",
+  "friendlyName" : "Handcrafting Expansion Adjustments Addon",
+  "link" : "steam://url/CommunityFilePage/2811713335",
+  "name" : "HandcraftingExpansionAdjustments2",
+  "priority" : 30,
+  "steamContentId" : "2811713335",
+  "tags" : "Crafting and Building|Miscellaneous|User Interface",
+  "version" : "v1"
+}

@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a tab to the furnace for Craftable Salvage Parts, requires Many Tabs.",
+  "friendlyName" : "Many Tabs Craftable Salvage Parts",
+  "link" : "steam://url/CommunityFilePage/2844442724",
+  "name" : "ManyTabsCraftableSalvage",
+  "priority" : 2,
+  "steamContentId" : "2844442724",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1"
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/interactData/config",
+        "value": "/interface/windowconfig/craftingfurnace.config"
+    },
+    {
+        "op": "add",
+        "path": "/interactData/filter",
+        "value": [
+            "craftingfurnace",
+            "craftingfurnace2",
+            "craftingfurnace3",
+			"craftingfurnace4"
+        ]
+    }
+]

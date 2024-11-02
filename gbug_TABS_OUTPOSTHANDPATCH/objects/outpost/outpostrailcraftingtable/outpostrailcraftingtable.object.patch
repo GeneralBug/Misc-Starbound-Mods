@@ -1,0 +1,12 @@
+[
+    {
+        "op": "add",
+        "path": "/interactData/filter/1",
+        "value": "railcategorised"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/config",
+        "value": "/interface/windowconfig/anter/railcraftingtable.config"
+    }
+]

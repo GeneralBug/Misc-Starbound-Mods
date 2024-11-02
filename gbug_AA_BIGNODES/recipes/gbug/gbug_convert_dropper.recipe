@@ -1,0 +1,10 @@
+{
+	"input" : 
+	[
+		{ "item" : "gbug_bigdropper", "count" : 1 }
+	],
+	"output" : 
+		{ "item" : "network_dropper", "count" : 1 },
+	"groups" : 
+		[ "craftingwiring", "autoaides_convert", "all" ]
+}

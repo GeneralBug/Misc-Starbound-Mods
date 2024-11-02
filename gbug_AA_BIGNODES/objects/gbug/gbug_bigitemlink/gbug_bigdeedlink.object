@@ -1,0 +1,46 @@
+{
+	"objectName" : "gbug_bigdeedlink",
+	"printable" : false,
+	"rarity" : "Common",
+	"description" : "Triggers rent payment from colony deeds within 32 tiles.",
+	"shortdescription" : "Colony Rent Signal",
+	"race" : "generic",
+	
+	"category" : "wire",
+	"price" : 100,
+
+	"animation" : "/objects/kheAA/kheAA_containerLink/kheAA_containerlink.animation",
+	
+	"inventoryIcon" : "/objects/kheAA/kheAA_containerLink/kheAA_itemlinkicon.png",
+	"orientations" : 
+	[
+		{
+			"imageLayers" : 
+			[
+				{"image":"gbug_bigitemlink.png:default.off","fullbright" : false},
+				{"image":"gbug_bigitemlinkfullbright.png:default.off"}
+			],
+			"imagePosition" : [0, 0],
+			"frames" : 1,
+			"spaceScan" : 0.1,
+			"anchors" : [ "background" ]
+		}
+	],
+	"animationParts" : 
+	{
+		"Itemlink" : "gbug_bigitemlink.png"
+	},
+	"animationPosition" : [0, 0],
+
+	"scripts" : [ "/objects/kheAA/kheAA_containerLink/kheAA_deedLink.lua" ],
+	"scriptDelta" : 5,
+
+	"inputNodes" : [[0,0]],
+	"outputNodes" : [[1,0]],
+	"kheAA_inDataNode":0,
+	"kheAA_outDataNode":0,
+	"kheAA_outPartialFillNode":1,
+	"kheAA_outCompleteFillNode":2,
+
+	"interval" : 5
+}

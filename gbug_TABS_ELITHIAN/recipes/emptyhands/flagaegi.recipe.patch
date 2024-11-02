@@ -1,0 +1,11 @@
+[
+	{
+		"op": "test",
+		"path": "/groups"
+	},
+	{
+		"op": "replace",
+		"path": "/groups",
+		"value": ["plain", "elithianhandcrafting"]
+	}
+]

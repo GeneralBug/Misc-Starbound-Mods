@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/output/item",
+        "value": "gbug_biggrabber2"
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/item",
+        "value": "gbug_biggrabber"
+    }
+]

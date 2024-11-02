@@ -1,0 +1,17 @@
+[
+	{
+		"op": "test",
+		"path": "/groups/2",
+		"value": "all"
+	},
+	{
+		"op": "replace",
+		"path": "/groups/2",
+		"value": ["steambound"]
+	},
+	{
+		"op": "add",
+		"path": "/groups",
+		"value": "inventorstable2"
+	}
+]

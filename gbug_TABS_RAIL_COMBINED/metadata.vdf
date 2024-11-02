@@ -1,0 +1,14 @@
+"workshopitem" {
+  "appid" "211820"
+  "publishedfileid" "2810272474"
+  "contentfolder" "D:\Steam\steamapps\common\Starbound\dev\gbug_TABS_RAIL_COMBINED\content"
+  "previewfile" "D:\Steam\steamapps\common\Starbound\dev\gbug_TABS_RAIL_COMBINED\preview.jpg"
+  "visibility" "0"
+  "title" "Many Tabs Rail Crafting Table"
+  "description" "Builds upon Hancrafting Expansion's changes to the rail crafting station to add (many) tabs!
+
+Any uncategorised items (i.e. from a mod I haven't patched in) should appear in the questionmark tab. If you see stuff in there and it annoys you, tell me the mod so I can patch it. You can also unselect the tabs for a full list.
+
+Thanks to AnomNom for leaving the breadcrumbs needed for me to get two files in a single workshop entry"
+  "changenote" "Refactored to be less shit, but now it needs two parts, so I'm trying to upload with SteamCMD. If you see this is probably worked, which is nice."
+}

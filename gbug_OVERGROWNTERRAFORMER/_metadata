@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a terraformer for Tidalbelt's Overgrown Planets.",
+  "friendlyName" : "Overgrown Terraformer",
+  "link" : "steam://url/CommunityFilePage/2840156391",
+  "name" : "gbug_OvergrownTerraformer",
+  "priority" : 2,
+  "steamContentId" : "2840156391",
+  "tags" : "Crafting and Building|Planets and Environments",
+  "version" : "1.0"
+}

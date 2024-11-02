@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/orientations/0/imageLayers/1/image",
+        "value": "Itemlinkfullbright.png:default.off?scale=1"
+    },
+    {
+        "op": "replace",
+        "path": "/orientations/0/imageLayers/0/fullbright",
+        "value": false
+    },
+    {
+        "op": "replace",
+        "path": "/orientations/0/imageLayers/0/image",
+        "value": "Itemlink.png:default.off?scale=1"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "Compact Storage Bridge V2"
+    },
+	{
+		"op": "replace",
+		"path": "/inventoryIcon",
+		"value": "/objects/kheAA/kheAA_containerLink/kheAA_itemlinkicon.png"
+	}
+]

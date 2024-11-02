@@ -1,0 +1,10 @@
+[
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": {
+			"file": "/interface/mt_crafting/anter/tabicon_BB_augments.png",
+			"filter": ["sb_augment"]
+		}
+	}
+]

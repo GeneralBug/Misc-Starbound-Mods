@@ -1,0 +1,51 @@
+{
+	"objectName" : "gbug_biggrabber2",
+	"colonyTags" : ["wired"],
+	"printable" : false,
+	"rarity" : "Rare",
+	"description" : "Better capacity Grabber. Grabs items from the world. Range: 8.
+^blue;Input: ^white;On/Off Switch
+^red;Output: ^white;item network^reset;",
+	"shortdescription" : "Grabber V2",
+	"objectType" : "container",
+	"tooltipKind" : "container",
+	"race" : "generic",
+
+	"category" : "wire",
+	"price" : 64,
+
+	"inventoryIcon" : "/objects/kheAA/kheAA_grabber/kheAA_grabbericon.png",
+	"orientations" : [
+		{
+			"image" : "gbug_biggrabber.png:<color>.off",
+			"imagePosition" : [0, 0],
+
+			"spaceScan" : 0.1,
+			"anchors" : [ "background" ]
+		}
+	],
+
+	"scripts" : [ "/objects/kheAA/kheAA_grabber/kheAA_grabber.lua"],
+	"scriptDelta" : 1,
+
+	"animation" : "/objects/gbug/gbug_biggrabber/gbug_biggrabber.animation",
+
+	"animationParts" : {
+		"grabber" : "gbug_biggrabber.png"
+	},
+	"animationPosition" : [0, 0],
+	"openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+	"closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+	"slotCount" : 8,
+	"uiConfig" : "/objects/kheAA/kheAA_grabber/kheAA_grabber.config",
+	"frameCooldown" : 5,
+	"autoCloseCooldown" : 3600,
+	"kheAA_logicNode":0,
+	"kheAA_outDataNode":0,
+	"kheAA_isVacuum":true,
+	"kheAA_vacuumDelay":1,
+	"kheAA_vacuumRange":8,
+
+	"inputNodes" : [ [0, 0] ],
+	"outputNodes" : [ [0, 1] ]
+}

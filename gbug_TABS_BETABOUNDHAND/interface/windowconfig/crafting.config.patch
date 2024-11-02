@@ -1,0 +1,27 @@
+[
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": {
+			"file": "/interface/mt_crafting/anter/tabicon_BB_smith.png",
+			"filter": ["sb_all", "sb_materials", "materials", "sb_tools"]
+		}
+	},	
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": {
+			"file": "/interface/mt_crafting/anter/tabicon_BB_items.png",
+			"filter": ["consumables"]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": {
+			"file": "/interface/mt_crafting/anter/tabicon_BB_augments.png",
+			"filter": ["sb_augment"]
+		}
+	}
+	
+]

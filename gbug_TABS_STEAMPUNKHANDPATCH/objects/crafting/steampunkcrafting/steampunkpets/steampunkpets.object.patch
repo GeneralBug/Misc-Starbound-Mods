@@ -1,0 +1,12 @@
+[
+    {
+        "op": "add",
+        "path": "/interactData/filter/1",
+        "value": "capturestationcategorised"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/config",
+        "value": "/interface/windowconfig/anter/capturestation.config"
+    }
+]

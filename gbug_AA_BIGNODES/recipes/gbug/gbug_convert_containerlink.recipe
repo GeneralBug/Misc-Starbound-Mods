@@ -1,0 +1,10 @@
+{
+	"input" : 
+	[
+		{ "item" : "gbug_bigcontainerlink", "count" : 1 }
+	],
+	"output" : 
+		{ "item" : "network_containerlink", "count" : 1 },
+	"groups" : 
+		[ "craftingwiring", "autoaides_convert", "all" ]
+}

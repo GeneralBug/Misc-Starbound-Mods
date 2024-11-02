@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a new tab to the spinning wheel for furniture items other than mannequins and banners, requires Many Tabs.\n\nIt only includes plushes currently so it's basically just a plushie tab, but if you find other mods that add furniture items to the ingredients tab, tell me so I can move them.",
+  "friendlyName" : "Many Tabs Spinning Wheel Furniture",
+  "link" : "steam://url/CommunityFilePage/2822997900",
+  "name" : "ManyTabsSpinningFurniture",
+  "priority" : 2,
+  "steamContentId" : "2822997900",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1.4"
+}

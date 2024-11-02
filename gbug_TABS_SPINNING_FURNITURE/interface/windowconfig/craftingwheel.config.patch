@@ -1,0 +1,11 @@
+[
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": {
+			"file": "/interface/mt_crafting/gbug/tabicon_teddybearplush.png",
+			"filter": ["furniture"]
+		}
+	}
+	
+]

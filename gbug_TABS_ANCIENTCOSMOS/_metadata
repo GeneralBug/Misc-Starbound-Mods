@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a tab for Project Ancient Cosmos, requires Many Tabs.\n\nAlso includes the universal translators added by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2800045635]K'Rakoths: Project Ancient Cosmos Patch[/url].\n\nNot sure about the icon, tell me if you have a suggestion.",
+  "friendlyName" : "Many Tabs Project Ancient Cosmos (Inventor's Table)",
+  "link" : "steam://url/CommunityFilePage/2811704663",
+  "name" : "ManyTabsAncientCosmosInventors",
+  "priority" : 2,
+  "steamContentId" : "2811704663",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1"
+}

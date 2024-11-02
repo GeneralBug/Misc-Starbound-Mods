@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a tab for Steambound Reloaded, requires Many Tabs.",
+  "friendlyName" : "Many Tabs Steambound Reloaded",
+  "link" : "steam://url/CommunityFilePage/2811203220",
+  "name" : "ManyTabsSteambound1",
+  "priority" : 2,
+  "steamContentId" : "2811203220",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1"
+}

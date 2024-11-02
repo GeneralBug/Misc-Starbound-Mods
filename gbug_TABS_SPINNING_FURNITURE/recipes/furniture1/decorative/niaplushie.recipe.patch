@@ -1,0 +1,16 @@
+[
+    {
+        "op": "remove",
+        "path": "/groups/2"
+    },
+    {
+        "op": "replace",
+        "path": "/groups/1",
+        "value": "furniture"
+    },
+    {
+        "op": "replace",
+        "path": "/groups/0",
+        "value": "craftingwheel"
+    }
+]

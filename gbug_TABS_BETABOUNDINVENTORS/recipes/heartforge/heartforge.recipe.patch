@@ -1,0 +1,12 @@
+[
+	{
+		"op": "test",
+		"path": "/groups/2",
+		"test": "all"
+	},
+    {
+        "op": "replace",
+        "path": "/groups/2",
+        "value": "sb_inventors"
+    }
+]

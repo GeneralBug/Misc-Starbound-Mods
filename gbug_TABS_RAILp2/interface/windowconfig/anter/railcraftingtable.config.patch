@@ -1,0 +1,25 @@
+[
+	{
+		"op": "test",
+		"path": "/paneLayout/categories/buttons/0/data",
+		"value": 
+		{
+			"filter" : [ "rail" ]
+		}
+	},
+	{ 
+		"op": "replace", 
+		"path": "/paneLayout/categories/buttons/0/data", 
+		"value": 
+		{
+			"filter" : [ "railblock" ]
+		}
+	},
+	//for some reason the icon doesn't appear using the normal many tabs things, so it has to be manually added (stinky)
+	{ "op": "add", "path": "/paneLayout/lblTab1", "value": {
+	  "type" : "image",
+	  "file" : "/interface/mt_crafting/gbug/tabicon_railpoint.png",
+	  "position" : [3, 196],
+	  "zlevel" : 3
+	}}
+]
