@@ -1,0 +1,24 @@
+[
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/123",
+        "value": {
+            "weight": 0.0001,
+            "item": [
+                "FHR-adventurousfedora",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/124",
+        "value": {
+            "weight": 0.0001,
+            "item": [
+                "FHR-antiquedivingmask",
+                1
+            ]
+        }
+    }
+]
