@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "felinwallbanner",
+    "count" : 1
+  },
+  "groups" : [ "craftingwheel", "racebanner", "all" ]
+}
