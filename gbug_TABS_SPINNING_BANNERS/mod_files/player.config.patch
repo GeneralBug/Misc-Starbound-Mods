@@ -1,0 +1,5 @@
+[
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "felinsmallbanner" }},
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "felinwallbanner" }},	
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "felinwindbanner" }}
+]

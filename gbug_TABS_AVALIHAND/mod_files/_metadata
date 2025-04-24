@@ -4,8 +4,8 @@
   "friendlyName" : "Many Tabs Avali Handcrafting",
   "link" : "steam://url/CommunityFilePage/2811705013",
   "name" : "ManyTabsAvaliHandcrafting",
-  "priority" : 2,
+  "includes" : ["Avali", "Avali colored objects", "Avali Plus"], 
   "steamContentId" : "2811705013",
   "tags" : "Crafting and Building|User Interface",
-  "version" : "v1.1"
+  "version" : "v2"
 }
