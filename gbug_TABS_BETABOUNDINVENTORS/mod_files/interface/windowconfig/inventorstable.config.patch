@@ -1,0 +1,10 @@
+[
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": {
+			"file": "/interface/tab_icons/betabound.png",
+			"filter": ["sb_inventors"]
+		}
+	}
+]

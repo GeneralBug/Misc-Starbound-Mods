@@ -5,7 +5,8 @@
   "link" : "steam://url/CommunityFilePage/2804362243",
   "name" : "ManyTabsJobOffers",
   "priority" : 2,
+  "includes" : ["BBHandcrafingPatch"],
   "steamContentId" : "2804362243",
   "tags" : "Crafting and Building|User Interface",
-  "version" : "v1.2"
+  "version" : "v2"
 }

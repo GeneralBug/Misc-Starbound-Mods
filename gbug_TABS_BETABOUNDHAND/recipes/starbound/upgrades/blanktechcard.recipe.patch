@@ -1,7 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/groups/4",
-        "value": "sb_all"
-    }
-]

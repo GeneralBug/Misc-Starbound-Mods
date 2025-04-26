@@ -1,0 +1,58 @@
+[
+	{
+		"op": "add",
+		"path": "/modTab/0",
+		"value": {
+			"file": "/interface/tab_icons/blocks.png",
+			"filter": ["materials"]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/modTab/1",
+		"value": {
+			"file": "/interface/tab_icons/armor.png",
+			"filter": ["armours"]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/modTab/2",
+		"value": {
+			"file": "/interface/tab_icons/weapons.png",
+			"filter": ["weapons"]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/modTab/3",
+		"value": {
+			"file": "/interface/tab_icons/items.png",
+			"filter": ["consumables", "healing"]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/modTab/4",
+		"value": {
+			"file": "/interface/tab_icons/smith.png",
+			"filter": ["tools", "mining", "craftingstations"]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/modTab/5",
+		"value": {
+			"file": "/interface/tab_icons/sit.png",
+			"filter": ["objects", "decoration"]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/modTab/6",
+		"value": {
+			"file": "/interface/tab_icons/augments.png",
+			"filter": ["sb_augment"]
+		}
+	}
+]
