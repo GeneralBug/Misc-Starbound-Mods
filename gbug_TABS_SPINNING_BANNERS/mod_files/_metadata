@@ -4,8 +4,8 @@
   "friendlyName" : "Many Tabs Spinning Wheel Banners",
   "link" : "steam://url/CommunityFilePage/2810673953",
   "name" : "ManyTabsRaceBannersRedux",
-  "priority" : 3,
   "steamContentId" : "2810673953",
   "tags" : "Crafting and Building|User Interface",
-  "version" : "v3"
+  "version" : "v3.1",
+  "includes" : ["FelinBannersRecipe", "RaceBannersRedux", "many_tabs1" ]
 }

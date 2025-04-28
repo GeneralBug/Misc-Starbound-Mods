@@ -1,0 +1,11 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Adds a recipe to the banners added by More Felin Banners, which can be found in the spinning wheel.",
+  "friendlyName" : "More Felin Banners Recipe Patch",
+  "link" : "",
+  "name" : "FelinBannersRecipe",
+  "steamContentId" : "",
+  "tags" : "Crafting and Building|User Interface",
+  "version" : "v1",
+  "includes" : ["morefelinbanners"]
+}
