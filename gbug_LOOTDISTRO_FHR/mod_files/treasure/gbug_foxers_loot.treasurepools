@@ -1,0 +1,132 @@
+{
+    "FHR-apexMilitary" : 
+    [
+        [1, 
+            {
+                "pool" : 
+                [
+                    {"weight" : 0.5, "item" : ["FHR-foldedushanka", 1]},
+                    {"weight" : 0.5, "item" : ["FHR-furaviator", 1]}
+                ],
+                "poolRounds" : 1,
+                "allowDuplication" : false
+            }
+        ]
+    ],
+
+    "FHR-deadbeat" : 
+    [
+        [1, 
+            {
+                "pool" : 
+                [
+                    {"weight" : 0.25, "item" : ["FHR-banditmask", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-battlehelmet", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-gasmask", 1]},
+                    {"weight" : 0.1, "item" : ["FHR-thesweat", 1]}
+                ],
+                "poolRounds" : 1,
+                "allowDuplication" : false
+            }
+        ]
+    ],
+
+    "FHR-industrial" : 
+    [
+        [1, 
+            {
+                "pool" : 
+                [
+                    {"weight" : 0.5, "item" : ["FHR-hardhat", 1]},
+                    {"weight" : 0.5, "item" : ["FHR-weldingmask", 1]}
+                ],
+                "poolRounds" : 1,
+                "allowDuplication" : false
+            }
+        ]
+    ],
+
+    "FHR-humanMilitary" : 
+    [
+        [1, 
+            {
+                "pool" : 
+                [
+                    {"weight" : 0.25, "item" : ["FHR-militaryberet", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-oldgasmask", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-oldsoldierhelmet", 1]},
+                    {"weight" : 0.1, "item" : ["FHR-aviatorhelmet", 1]}
+                ],
+                "poolRounds" : 1,
+                "allowDuplication" : false
+            }
+        ]
+    ],
+
+    "FHR-humanCasual" : 
+    [
+        [1, 
+            {
+                "pool" : 
+                [
+                    {"weight" : 0.25, "item" : ["FHR-beanie", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-backwardcap", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-newsboycap", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-shades", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-flatcap", 1]}
+                ],
+                "poolRounds" : 1,
+                "allowDuplication" : false
+            }
+        ]
+    ],
+
+    "FHR-hot" : 
+    [
+        [1, 
+            {
+                "pool" : 
+                [
+                    {"weight" : 0.25, "item" : ["FHR-aussiehat", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-pithhat", 1]},
+                    {"weight" : 0.1, "item" : ["FHR-gunslingerhat", 1]}
+                ],
+                "poolRounds" : 1,
+                "allowDuplication" : false
+            }
+        ]
+    ],
+
+    "FHR-ancientHelm" : 
+    [
+        [1, 
+            {
+                "pool" : 
+                [
+                    {"weight" : 0.25, "item" : ["FHR-centurionhelmet", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-romanhelmet", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-spartanhelmet", 1]},
+                    {"weight" : 0.25, "item" : ["gladiatorhead", 1]}
+                ],
+                "poolRounds" : 1,
+                "allowDuplication" : false
+            }
+        ]
+    ],
+
+    "FHR-spore" : 
+    [
+        [1, 
+            {
+                "pool" : 
+                [
+                    {"weight" : 0.25, "item" : ["FHR-sporemask", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-sporehat", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-simplehood", 1]}
+                ],
+                "poolRounds" : 1,
+                "allowDuplication" : false
+            }
+        ]
+    ]
+}

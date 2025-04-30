@@ -1,0 +1,10 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_VANILLA_BANNERS_RECIPE/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_VANILLA_BANNERS_RECIPE/_previewimage"
+	"visibility"		"0"
+	"title"		"Vanilla Banners Recipe Patch"
+	"description"		"Adds a recipe to the vanilla Protectorate and Wargroove banners, which can be found in the spinning wheel. Requires Race Banners Redux."
+
+}

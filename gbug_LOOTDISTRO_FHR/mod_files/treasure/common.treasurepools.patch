@@ -1,0 +1,142 @@
+[
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-adventurousfedora" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-aviatorhelmet" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-beanie" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-bowlerhat" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-deerstalkerhat" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-fishbowl" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-flatcap" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-gunslingerhat" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-hockeymask" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-morion" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-moustacheglasses" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-pdgeon" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-policehat" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-shades" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-soldierhelmet" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-traditionalheadband" ,1]
+        }
+    },
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-trilby" ,1]
+        }
+    },    
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-boaterhat" ,1]
+        }
+    },    
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-bossoftheplains" ,1]
+        }
+    },    
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-protectorateberet" ,1]
+        }
+    }
+]

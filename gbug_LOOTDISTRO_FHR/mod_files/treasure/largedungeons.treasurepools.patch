@@ -1,0 +1,119 @@
+[
+ {
+  "op": "add",
+  "path": "/naturalcaveChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.005,
+   "item": [
+    "adventurousfedora",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/hylotlcityChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.02,
+   "item": [
+    "FHR-conicalhat",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/hylotlruinedcityChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.01,
+   "item": [
+    "FHR-antiquedivinghelmet",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/humancampChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.01,
+   "pool": "FHR-humanCasual"
+  }
+ },
+ {
+  "op": "add",
+  "path": "/humanprisonChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.01,
+   "pool": "FHR-humanMilitary"
+  }
+ },
+ {
+  "op": "add",
+  "path": "/glitchvillageChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.02,
+   "item": [
+    "FHR-simplehood",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/florancanyonChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.01,
+   "pool": "FHR-ancientHelm"
+  }
+ },
+ {
+  "op": "add",
+  "path": "/floranhuntinggroundsChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.01,
+   "pool": "FHR-ancientHelm"
+  }
+ },
+ {
+  "op": "add",
+  "path": "/avianairshipChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.01,
+   "item": [
+    "FHR-strawhat",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/aviantombChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.03,
+   "item": [
+    "FHR-avianmask",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/aviantempleChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.03,
+   "item": [
+    "FHR-avianmask",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/apexcampChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.05,
+   "pool": "FHR-apexMilitary"
+  }
+ }
+]

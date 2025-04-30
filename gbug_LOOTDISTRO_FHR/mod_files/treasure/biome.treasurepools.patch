@@ -1,0 +1,86 @@
+[
+ {
+  "op": "add",
+  "path": "/foundryTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.05,
+   "pool": "FHR-industrial"
+  }
+ },
+ {
+  "op": "add",
+  "path": "/iceTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.3,
+   "item": [
+    "FHR-winterhod",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/swampTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.05,
+   "item": "FHR-booniehat"
+  }
+ },
+ {
+  "op": "add",
+  "path": "/mushroomTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.1,
+   "pool": "FHR-spore"
+  }
+ },
+ {
+  "op": "add",
+  "path": "/scorchedcityTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.1,
+   "pool": "FHR-deadbeat"
+  }
+ },
+ {
+  "op": "add",
+  "path": "/toxicTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.1,
+   "item": [
+    "FHR-chemicalmask",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/oceanTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.01,
+   "item": [
+    "FHR-strawhat",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/snowTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.05,
+   "item": [
+    "FHR-mountiehat",
+    1
+   ]
+  }
+ },
+ {
+  "op": "add",
+  "path": "/savannahTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.05,
+   "pool": "FHR-hot"
+  }
+ }
+]

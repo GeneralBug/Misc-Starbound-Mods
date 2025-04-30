@@ -1,0 +1,13 @@
+[
+ {
+  "op": "add",
+  "path": "/atprk_krakothruinsChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.02,
+   "item": [
+    "FHR-antiquedivinghelmet",
+    1
+   ]
+  }
+ }
+]

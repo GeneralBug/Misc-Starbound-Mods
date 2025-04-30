@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "protectoratewallbanner", "count" : 1 },
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "protectoratefbannertorn2",
+    "count" : 1
+  },
+  "groups" : [ "craftingwheel", "all", "racebanner", "ingredients" ]
+}

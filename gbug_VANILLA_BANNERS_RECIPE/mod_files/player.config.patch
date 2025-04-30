@@ -1,0 +1,13 @@
+[
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "protectoratefbannertorn1" }},
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "protectoratefbannertorn2" }},	
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "protectoratelobbyracebanners" }},	
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "protectoratewallbanner" }},	
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "protectoratewindbanner" }},	
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "protectoratewindbanner2" }},	
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "protectoratewindbanner3" }},	
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "wargroovebanner1" }},	
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "wargroovebanner2" }},	
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "wargroovebanner3" }},	
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "wargroovebanner4" }}
+]

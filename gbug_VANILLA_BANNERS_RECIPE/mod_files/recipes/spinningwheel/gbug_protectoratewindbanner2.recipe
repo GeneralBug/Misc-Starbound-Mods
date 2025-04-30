@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 40 }
+  ],
+  "output" : {
+    "item" : "protectoratewindbanner2",
+    "count" : 1
+  },
+  "groups" : [ "craftingwheel", "all", "racebanner", "ingredients" ]
+}
