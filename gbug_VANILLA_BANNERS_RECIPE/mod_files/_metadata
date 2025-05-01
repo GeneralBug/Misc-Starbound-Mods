@@ -1,11 +1,10 @@
 {
   "author" : "GeneralBug",
-  "description" : "Adds a recipe to the vanilla Protectorate and Wargroove banners, which can be found in the spinning wheel. Requires Race Banners Redux.",
-  "friendlyName" : "Vanilla Banners Recipe Patch",
+  "description" : "Adds a recipe to the vanilla Wargroove banners, which can be found in the spinning wheel.",
+  "friendlyName" : "Wargroove Banners Recipe Patch",
   "link" : "",
   "name" : "gbug_VanillaBannersRecipe",
   "steamContentId" : "",
   "tags" : "Crafting and Building|User Interface",
-  "version" : "v1",
-  "includes" : ["RaceBannersRedux"]
+  "version" : "v1"
 }
