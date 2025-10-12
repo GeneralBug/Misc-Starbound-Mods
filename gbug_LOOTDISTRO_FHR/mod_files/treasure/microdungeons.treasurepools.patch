@@ -1,7 +1,7 @@
 [
  {
   "op": "add",
-  "path": "/humanbunkertreasure/0/1/pool/10",
+  "path": "/humanbunkertreasure/0/1/pool/-",
   "value": {
    "weight": 0.01,
    "pool": "FHR-humanMilitary"

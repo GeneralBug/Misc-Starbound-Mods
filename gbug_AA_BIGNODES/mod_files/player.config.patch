@@ -21,5 +21,6 @@
 	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "network_quarryiron" } },
 	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "network_pump_iron" } },
 	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "network_quarrytitanium" } },
-	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "network_pump_titanium" } }
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "network_pump_titanium" } },
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "gbug_bigrouter" } }
 ]

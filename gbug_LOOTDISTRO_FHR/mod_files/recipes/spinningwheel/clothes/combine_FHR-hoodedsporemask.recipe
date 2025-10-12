@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "FHR-sporemask", "count" : 1 },
+    { "item" : "FHR-simplehood", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "FHR-hoodedsporemask", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes", "hats" ]
+}

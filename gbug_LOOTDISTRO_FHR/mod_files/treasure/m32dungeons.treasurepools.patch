@@ -1,0 +1,16 @@
+[
+    {
+        "op": "add",
+        "path": "/yurtcabinet/1/pool/-",
+        "value": {
+        "weight" : 0.03, 
+        "item" : [ "FHR-winterhood", 1]},
+    },
+    {
+        "op": "add",
+        "path": "/nuucosmetictreasure/0/pool/-",
+        "value": {
+        "weight" : 0.01, 
+        "pool" : [ "FHR-spore", 1]},
+    }
+]

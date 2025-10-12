@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "FHR-pithhat", "count" : 1 },
+    { "item" : "pilothead", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "FHR-goggledpithhat", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes", "hats" ]
+}
