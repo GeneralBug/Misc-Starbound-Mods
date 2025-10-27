@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 },
+    { "item" : "hazard", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "gbug_industrialstoragebuffer",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture2", "storage", "all" ]
+}

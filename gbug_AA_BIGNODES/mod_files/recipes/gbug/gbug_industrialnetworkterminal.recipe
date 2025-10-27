@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 },
+    { "item" : "wire", "count" : 1 },
+    { "item" : "network_terminal", "count" : 1 }
+  ],
+  "output" : { "item" : "gbug_industrialnetworkterminal", "count" : 1 },
+	"groups" : [ "craftingwiring", "mechanics", "all" ]
+}

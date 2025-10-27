@@ -22,5 +22,9 @@
 	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "network_pump_iron" } },
 	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "network_quarrytitanium" } },
 	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "network_pump_titanium" } },
-	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "gbug_bigrouter" } }
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "gbug_bigrouter" } },
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "gbug_industrialstoragebuffer" } },
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "gbug_industrialstorageoutput" } },
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "gbug_industrialstorageinput" } },
+	{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "gbug_industrialnetworkterminal" } }
 ]

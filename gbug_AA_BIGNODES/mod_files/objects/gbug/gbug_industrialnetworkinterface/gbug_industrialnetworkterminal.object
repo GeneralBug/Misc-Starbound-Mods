@@ -1,0 +1,39 @@
+{
+  "objectName": "gbug_industrialnetworkterminal",
+  "colonyTags": ["industrial","electronic","wired"],
+  "printable": false,
+  "rarity": "Rare",
+
+  "category": "wire",
+  "price": 500,
+  "description": "Provides access to the contents of connected storage containers.\n^blue;Input: ^white;item network^reset; ^red;UNRELIABLE AT RANGE!^reset;",
+  "shortdescription": "Item Network Terminal",
+  "race": "generic",
+
+  "inventoryIcon": "gbug_industrialnetworkterminalicon.png",
+  "orientations": [
+    {
+      "imageLayers" : [ { "image" : "gbug_industrialnetworkterminal.png:<color>.<frame>", "fullbright" : true }, { "image" : "gbug_industrialnetworkterminal.png:<color>.<frame>" } ],
+      "imagePosition": [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.5,
+      "spaceScan": 0.1,
+      "anchors": ["background"]
+    }
+  ],
+
+  "health": 4.5,
+
+  "objectType": "container",
+  "openSounds": ["/sfx/objects/console_generic_switchon.ogg"],
+  "closeSounds": ["/sfx/objects/console_generic_switchoff.ogg"],
+  "slotCount": 0,
+  "uiConfig": "/interface/kheAA/kheAA_terminal/kheAA_terminalGui.config",
+  "frameCooldown" : 4,
+  "openFrameIndex" : 2,
+  "autoCloseCooldown": 3600,
+  "scripts": ["/objects/kheAA/kheAA_terminal/kheAA_terminal.lua"],
+  "inputNodes": [[0, 0]],
+  "kheAA_inDataNode": 0,
+  "scriptDelta": 5
+}

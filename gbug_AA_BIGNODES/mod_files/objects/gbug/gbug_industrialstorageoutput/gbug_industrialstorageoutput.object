@@ -1,0 +1,40 @@
+{
+  "objectName" : "gbug_storageoutput",
+  "colonyTags" : ["industrial","storage"],
+  "rarity" : "Rare",
+  "category" : "storage",
+  "price" : 100,
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A small locker with a \n^red;red ^white; symbol indicating it's for output.",
+  "shortdescription" : "Storage Outlet",
+  "race" : "generic",
+  "health" : 1.5,
+
+  "apexDescription" : "This looks like a secure container for valuable goods.",
+  "avianDescription" : "A metal wall locker, for keeping things in.",
+  "floranDescription" : "Floran could keep trophiesss in here.",
+  "glitchDescription" : "Intrigued. I wonder why there are hazard stripes on this locker?",
+  "humanDescription" : "A wall locker, to keep stuff in.",
+  "hylotlDescription" : "A somewhat crudely made locker for storing things.",
+  "novakidDescription" : "I reckon I could stuff some belongings in here, if I wanted.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "gbug_storageoutput.png:<color>.<key>",
+      "imagePosition" : [-8, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/gunchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/gunchest_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 4,
+  "openFrameIndex" : 3,
+  "autoCloseCooldown" : 3600
+}

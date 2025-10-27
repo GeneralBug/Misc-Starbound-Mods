@@ -4,8 +4,8 @@
   "friendlyName" : "Automation Aides Addon and Adjustments",
   "link" : "steam://url/CommunityFilePage/2815430570",
   "name" : "gbug_AutoAidesAddon",
-  "priority" : 3,
+  "includes" : ["AutomationAides"],
   "steamContentId" : "2815430570",
   "tags" : "Crafting and Building|Furniture and Objects",
-  "version" : "1.1"
+  "version" : "2.0"
 }
