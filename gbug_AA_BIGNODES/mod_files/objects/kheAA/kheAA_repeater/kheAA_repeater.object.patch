@@ -3,5 +3,36 @@
         "op": "replace",
         "path": "/shortdescription",
         "value": "Compact Repeater"
+    },
+    {
+        "op": "remove",
+        "path": "/orientations/0/image"
+    },
+    {
+        "op": "add",
+        "path": "/orientations/0/imageLayers",
+        "value": [
+            {
+                "image": "repeater.png:<color>.<frame>",
+                "fullbright": true
+            },
+            {
+                "image": "repeaterlit.png:<color>.<frame>"
+            }
+        ]
+    },
+    {
+        "op": "remove",
+        "path": "/animationParts/repeater"
+    },
+    {
+        "op": "add",
+        "path": "/animationParts/bg",
+        "value": "repeater.png"
+    },
+    {
+        "op": "add",
+        "path": "/animationParts/fg",
+        "value": "repeaterlit.png"
     }
 ]

@@ -1,0 +1,56 @@
+[
+    {
+        "op": "remove",
+        "path": "/animationPosition"
+    },
+    {
+        "op": "remove",
+        "path": "/animationParts"
+    },
+    {
+        "op": "remove",
+        "path": "/animation"
+    },
+    {
+        "op": "remove",
+        "path": "/orientations/0/image"
+    },
+    {
+        "op": "add",
+        "path": "/orientations/0/imageLayers",
+        "value": [
+            {
+                "image": "kheAA_terminal.png:<color>.<frame>",
+                "fullbright": true
+            },
+            {
+                "image": "kheAA_terminallit.png:<color>.<frame>"
+            }
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/orientations/0/frames",
+        "value": 3
+    },
+    {
+        "op": "add",
+        "path": "/orientations/0/animationCycle",
+        "value": 0.5
+    },
+    {
+        "op": "replace",
+        "path": "/rarity",
+        "value": "Legendary"
+    },
+    {
+        "op": "add",
+        "path": "/colonyTags/0",
+        "value": "outpost"
+    },
+    {
+        "op": "add",
+        "path": "/colonyTags/1",
+        "value": "wired"
+    }
+]

@@ -14,14 +14,14 @@
 
 	"animation" : "/objects/kheAA/kheAA_containerLink/kheAA_containerlink.animation",
 	
-	"inventoryIcon" : "/objects/kheAA/kheAA_containerLink/kheAA_itemlinkicon.png",
+	"inventoryIcon" : "gbug_bigcontainerlink2icon.png",
 	"orientations" : 
 	[
 		{
 			"imageLayers" : 
 			[
-				{"image":"/objects/kheAA/kheAA_containerLink/kheAA_itemlinkoriginal.png:default.off","fullbright" : false},
-				{"image":"/objects/kheAA/kheAA_containerLink/kheAA_itemlinkoriginalfullbright.png:default.off"}
+				{"image":"gbug_bigcontainerlink2.png:default.off","fullbright" : false},
+				{"image":"gbug_bigcontainerlink2fullbright.png:default.off"}
 			],
 			"imagePosition" : [0, 0],
 			"frames" : 1,

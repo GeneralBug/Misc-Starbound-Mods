@@ -2,35 +2,37 @@
 	"objectName" : "gbug_bigrepeater",
 	"rarity" : "Common",
 	"printable" : false,
-	"description" : "^green;Links^reset; together certain inventory network nodes.",
+	"description" : "^green;Links^reset; together certain inventory network nodes. ^red;Will not function if looped.^reset;",
 	"shortdescription" : "Repeater",
 	"race" : "generic",
 
 	"category" : "wire",
 	"price" : 75,
-	
+
 	"inventoryIcon" : "/objects/kheAA/kheAA_repeater/repeatericon.png",
 	"orientations" : [
 		{
-			"image" : "gbug_bigrepeater.png:<color>.off",
+			"imageLayers" : [ {"image": "gbug_bigrepeater.png:<color>.<frame>", "fullbright": true}, {"image": "gbug_bigrepeaterlit.png:<color>.<frame>"} ],
 			"imagePosition" : [0, 0],
 
 			"spaceScan" : 0.1,
 			"anchors" : [ "background" ]
 		}
 	],
-	"animationParts" : 
-	{
-		"repeater" : "gbug_bigrepeater.png"
+	"animationParts" : {
+		"bg" : "gbug_bigrepeater.png",
+		"fg" : "gbug_bigrepeaterlit.png"
 	},
 	"animationPosition" : [0, 0],
+
+	"animation" : "/objects/kheAA/kheAA_repeater/repeater.animation",
 	"scripts" : [ "/objects/kheAA/kheAA_repeater/kheAA_repeater.lua"],
 
 	"inputNodes" : [ [0,0]],
 	"outputNodes" : [ [0, 1] ],
-	
+
 	"kheAA_inDataNode":0,
 	"kheAA_outDataNode":0,
-	
+
 	"scriptDelta" : 1
 }

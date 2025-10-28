@@ -1,0 +1,64 @@
+[
+    {
+        "op": "remove",
+        "path": "/animatedParts/parts/repeater"
+    },
+    {
+        "op": "add",
+        "path": "/animatedParts/parts/bg",
+        "value": {
+            "properties": {
+                "centered": false
+            },
+            "partStates": {
+                "repeaterState": {
+                    "off": {
+                        "properties": {
+                            "image": "<partImage>:<color>.off"
+                        }
+                    },
+                    "on": {
+                        "properties": {
+                            "image": "<partImage>:<color>.on",
+                            "fullbright": true
+                        }
+                    },
+                    "error": {
+                        "properties": {
+                            "image": "<partImage>:<color>.error",
+                            "fullbright": true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/animatedParts/parts/fg",
+        "value": {
+            "properties": {
+                "centered": false
+            },
+            "partStates": {
+                "repeaterState": {
+                    "off": {
+                        "properties": {
+                            "image": "<partImage>:<color>.off"
+                        }
+                    },
+                    "on": {
+                        "properties": {
+                            "image": "<partImage>:<color>.on"
+                        }
+                    },
+                    "error": {
+                        "properties": {
+                            "image": "<partImage>:<color>.error"
+                        }
+                    }
+                }
+            }
+        }
+    }
+]

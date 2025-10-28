@@ -1,0 +1,111 @@
+[
+    {
+        "op": "remove",
+        "path": "/animatedParts/parts/ItemlinkStatefullbright"
+    },
+    {
+        "op": "remove",
+        "path": "/animatedParts/parts/ItemlinkState/partStates/Itemlink"
+    },
+    {
+        "op": "add",
+        "path": "/animatedParts/parts/ItemlinkState/partStates/bg",
+        "value": {
+            "off": {
+                "properties": {
+                    "image": "<partImage>:default.off"
+                }
+            },
+            "down": {
+                "properties": {
+                    "image": "<partImage>:default.down",
+                    "fullbright": true
+                }
+            },
+            "up": {
+                "properties": {
+                    "image": "<partImage>:default.up",
+                    "fullbright": true
+                }
+            },
+            "both": {
+                "properties": {
+                    "image": "<partImage>:default.both",
+                    "fullbright": true
+                }
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/animatedParts/parts/ItemlinkState/partStates/fg",
+        "value": {
+            "off": {
+                "properties": {
+                    "image": "<partImage>:default.off"
+                }
+            },
+            "down": {
+                "properties": {
+                    "image": "<partImage>:default.down"
+                }
+            },
+            "up": {
+                "properties": {
+                    "image": "<partImage>:default.up"
+                }
+            },
+            "both": {
+                "properties": {
+                    "image": "<partImage>:default.both"
+                }
+            }
+        }
+    },
+    {
+        "op": "remove",
+        "path": "/animatedParts/stateTypes/Itemlink"
+    },
+    {
+        "op": "add",
+        "path": "/animatedParts/stateTypes/bg",
+        "value": {
+            "default": "off",
+            "states": {
+                "off": {
+                    "frames": 1
+                },
+                "down": {
+                    "frames": 1
+                },
+                "up": {
+                    "frames": 1
+                },
+                "both": {
+                    "frames": 1
+                }
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/animatedParts/stateTypes/fg",
+        "value": {
+            "default": "off",
+            "states": {
+                "off": {
+                    "frames": 1
+                },
+                "down": {
+                    "frames": 1
+                },
+                "up": {
+                    "frames": 1
+                },
+                "both": {
+                    "frames": 1
+                }
+            }
+        }
+    }
+]

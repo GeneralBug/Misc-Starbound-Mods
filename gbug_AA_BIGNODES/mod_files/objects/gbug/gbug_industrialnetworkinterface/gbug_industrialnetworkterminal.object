@@ -1,8 +1,8 @@
 {
   "objectName": "gbug_industrialnetworkterminal",
-  "colonyTags": ["industrial","electronic","wired"],
+  "colonyTags": ["industrial","wired"],
   "printable": false,
-  "rarity": "Rare",
+  "rarity": "Legendary",
 
   "category": "wire",
   "price": 500,
@@ -10,10 +10,10 @@
   "shortdescription": "Item Network Terminal",
   "race": "generic",
 
-  "inventoryIcon": "gbug_industrialnetworkterminalicon.png",
+  "inventoryIcon": "icon.png",
   "orientations": [
     {
-      "imageLayers" : [ { "image" : "gbug_industrialnetworkterminal.png:<color>.<frame>", "fullbright" : true }, { "image" : "gbug_industrialnetworkterminal.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image" : "gbug_industrialnetworkterminal.png:<color>.<frame>", "fullbright" : true }, { "image" : "gbug_industrialnetworkterminallit.png:<color>.<frame>" } ],
       "imagePosition": [-8, 0],
       "frames" : 3,
       "animationCycle" : 0.5,

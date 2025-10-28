@@ -1,5 +1,5 @@
 {
-  "objectName" : "gbug_storageoutput",
+  "objectName" : "gbug_industrialstorageoutput",
   "colonyTags" : ["industrial","storage"],
   "rarity" : "Rare",
   "category" : "storage",
@@ -22,7 +22,7 @@
   "inventoryIcon" : "icon.png",
   "orientations" : [
     {
-      "image" : "gbug_storageoutput.png:<color>.<key>",
+      "image" : "gbug_industrialstorageoutput.png:<color>.<key>",
       "imagePosition" : [-8, -8],
 
       "spaceScan" : 0.1,

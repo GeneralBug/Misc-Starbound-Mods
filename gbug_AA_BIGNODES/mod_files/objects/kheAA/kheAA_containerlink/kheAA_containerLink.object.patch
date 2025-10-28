@@ -1,27 +1,36 @@
 [
     {
-        "op": "replace",
-        "path": "/orientations/0/imageLayers/1/image",
-        "value": "Itemlinkfullbright.png:default.off?scale=1"
+        "op": "remove",
+        "path": "/animationParts/Itemlink"
+    },
+    {
+        "op": "add",
+        "path": "/animationParts/bg",
+        "value": "Itemlink.png"
+    },
+    {
+        "op": "add",
+        "path": "/animationParts/fg",
+        "value": "Itemlinkfullbright.png"
     },
     {
         "op": "replace",
-        "path": "/orientations/0/imageLayers/0/fullbright",
-        "value": false
+        "path": "/orientations/0/imageLayers/1/image",
+        "value": "Itemlinkfullbright.png:default.off"
     },
     {
         "op": "replace",
         "path": "/orientations/0/imageLayers/0/image",
-        "value": "Itemlink.png:default.off?scale=1"
+        "value": "Itemlink.png:default.off"
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "Compact Storage Bridge"
     },
-	{
-		"op": "replace",
-		"path": "/inventoryIcon",
-		"value": "/objects/kheAA/kheAA_containerLink/kheAA_itemlinkicon.png"
-	}
+    {
+        "op": "replace",
+        "path" : "/inventoryIcon",
+        "value": "kheAA_itemlinkicon.png"
+    }
 ]
