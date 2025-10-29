@@ -26,7 +26,7 @@
 		}
 	],
 
-	"animation" : "/objects/gbug/gbug_bigrouter/gbug_bigrouter.animation",
+	"animation" : "/objects/kheAA/kheAA_router/kheAA_router.animation",
 
 	"animationParts" : {
 		"router" : "gbug_bigrouter.png"
@@ -37,8 +37,8 @@
 
 	"objectType" : "container",
 
-	"openSounds" : [ "/sfx/objects/mannequin_open.ogg" ],
-	"closeSounds" : [ "/sfx/objects/mannequin_close.ogg" ],
+  	"openSounds": ["/sfx/objects/console_generic_switchon.ogg"],
+  	"closeSounds": ["/sfx/objects/console_generic_switchoff.ogg"],
 	"slotCount" : 5,
 	"uiConfig" : "/interface/kheAA/kheAA_router/kheAA_routerGui.config",
 	"frameCooldown" : 5,

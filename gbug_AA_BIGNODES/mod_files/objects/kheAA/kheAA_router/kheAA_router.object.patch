@@ -3,5 +3,16 @@
         "op": "replace",
         "path": "/shortdescription",
         "value": "Compact ITD"
+    },
+    {
+        "op": "replace",
+        "path": "openSounds",
+        "value": ["/sfx/objects/console_generic_switchon.ogg"]
+
+    },
+    {
+        "op": "replace",
+        "path": "closeSounds",
+        "value": ["/sfx/objects/console_generic_switchoff.ogg"]
     }
 ]

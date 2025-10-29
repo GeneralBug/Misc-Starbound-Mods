@@ -1,10 +1,10 @@
 {
   "author" : "GeneralBug",
-  "description" : "An addon/patch/mod/thing for Automation Aides that makes some changes:\n\n- Many network components have overflowing wire nodes, which can lead to issues if you aren't careful how you place them. To fix this, I've added \"big\" versions of objects with bounding boxes that cover all their wire nodes. The original versions, which remain unchanged (beside name), can now be crafted from the new wiring station tab using the big versions.\n- Changed the texture for storage bridges (and other objects that share it) to be the correct pixel scale; previously it was scaled down at runtime from 16x16.\n- Renamed the \"Colony Deed Rent Collector\" to \"Colony Rent Signal\" for better clarity.\n\nSome current issue:\n\n- Many of the textures from AA have \"activated\" versions, but I don't think they work properly and I don't know how to fix it.\n- The spout outputs from the left side rather than the middle. Again, I don't know how to fix it and don't mind it enough to try too hard.\n\nTo reiterate, this mod makes no changes to the functionality of anything from the main mod, nor will installing it break existing networks (hopefully).",
+  "description" : "An addon/patch/mod/thing for Automation Aides that makes some changes.",
   "friendlyName" : "Automation Aides Addon and Adjustments",
   "link" : "steam://url/CommunityFilePage/2815430570",
   "name" : "gbug_AutoAidesAddon",
-  "includes" : ["AutomationAides"],
+  "includes" : ["AutomationAides", "ManyTabsAutoAides"],
   "steamContentId" : "2815430570",
   "tags" : "Crafting and Building|Furniture and Objects",
   "version" : "2.0"
