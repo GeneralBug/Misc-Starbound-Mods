@@ -1,0 +1,10 @@
+{
+  "version" : "1.0",
+  "author" : "GeneralBug",
+  "name" : "gbug_StarburstMaple32Patch",
+  "friendlyName" : "Starburst Maple32 Augment Patch",
+  "includes" : ["StarburstRework", "Maple32"],
+  "description" : "Patches Maple32 augments for Starburst Rework!",
+  "link" : "steam://url/CommunityFilePage/3599481646",
+  "steamContentId" : "3599481646"
+}

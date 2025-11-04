@@ -1,0 +1,12 @@
+[
+    {
+        "op": "test",
+        "path": "/input/3/item",
+        "value": "durasteelbar"
+    },
+    {
+        "op": "replace",
+        "path": "/input/3",
+        "value": {"item" : "verdinoctbar", "count" : 7}
+    }
+]

@@ -1,0 +1,18 @@
+[
+
+    {
+        "op": "replace",
+        "path": "/groups",
+        "value":  ["pf_craftingplanetresist", "augments"]
+    },
+    {
+        "op": "replace",
+        "path": "/input/2/count",
+        "value": 3
+    },
+    {
+        "op": "replace",
+        "path": "/input/2/item",
+        "value": "livingroot"
+    }
+]

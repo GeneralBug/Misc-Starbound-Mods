@@ -1,0 +1,12 @@
+{
+  "input" : [
+  { "item" : "m32breathprotectionaug", "count" : 1 },
+	{ "item" : "livingroot", "count" : 5 },
+  { "item" : "titaniumbar", "count" : 7 }
+  ],
+  "output" : {
+    "item" : "pf_biomeoxygenaugment",
+    "count" : 1
+  },
+  "groups" : [ "pf_craftingplanetresist2", "augments" ]
+}
