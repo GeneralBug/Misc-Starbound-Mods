@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "FHR-booniehat", "count" : 1 }
-  ],
-  "duration" : 5,
-  "output" : { "item" : "FHR-coveredboonie", "count" : 1 },
-  "groups" : [ "craftingwheel", "clothes", "hats" ]
-}

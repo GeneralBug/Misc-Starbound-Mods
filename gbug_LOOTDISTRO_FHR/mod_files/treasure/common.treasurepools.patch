@@ -80,7 +80,7 @@
         "op": "add","path": "/costume/0/1/pool/-","value": 
         {
             "weight": 0.0003,
-            "item": ["FHR-pdgeon" ,1]
+            "item": ["FHR-pigeon" ,1]
         }
     },
     {
@@ -137,6 +137,27 @@
         {
             "weight": 0.0003,
             "item": ["FHR-protectorateberet" ,1]
+        }
+    },    
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-spore" ,1]
+        }
+    },    
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-ancientHelm" ,1]
+        }
+    },    
+    {
+        "op": "add","path": "/costume/0/1/pool/-","value": 
+        {
+            "weight": 0.0003,
+            "item": ["FHR-thebluesplayer" ,1]
         }
     }
 ]

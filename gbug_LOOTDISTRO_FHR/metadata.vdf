@@ -1,9 +1,10 @@
-"workshopitem" {
-  "appid" "211820"
-  "publishedfileid" "TODO"
-  "contentfolder" "/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_HATDISTRO/contents"
-  "previewfile" "/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_HATDISTRO/mod_files/_previewimage"
-  "visibility" "0"
-  "title" "FHR (and others) Loot Distribution"
-  "description" "TODO"
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_LOOTDISTRO_FHR/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_LOOTDISTRO_FHR/_previewimage"
+	"visibility"		"0"
+	"title"		"Foxer's Headgear Revisited Loot Distribution"
+	"description"		"Distributes all the hats from Foxer's Headgear Revisited into various loot pools, either in logical places or the generic costume pool. Also disables the recipe for the crafting station, though it still functions normally if you spawn it in with FHR-foxersheadgearvendor"
+	"publishedfileid"		"3601641589"
 }

@@ -37,8 +37,9 @@
             {
                 "pool" : 
                 [
-                    {"weight" : 0.5, "item" : ["FHR-hardhat", 1]},
-                    {"weight" : 0.5, "item" : ["FHR-weldingmask", 1]}
+                    {"weight" : 0.33, "item" : ["FHR-hardhat", 1]},
+                    {"weight" : 0.33, "item" : ["FHR-weldingmask", 1]},
+                    {"weight" : 0.33, "item" : ["FHR-helmetedweldingmask", 1]}
                 ],
                 "poolRounds" : 1,
                 "allowDuplication" : false
@@ -55,7 +56,9 @@
                     {"weight" : 0.25, "item" : ["FHR-militaryberet", 1]},
                     {"weight" : 0.25, "item" : ["FHR-oldgasmask", 1]},
                     {"weight" : 0.25, "item" : ["FHR-oldsoldierhelmet", 1]},
-                    {"weight" : 0.1, "item" : ["FHR-aviatorhelmet", 1]}
+                    {"weight" : 0.25, "item" : ["FHR-aviatorhelmet", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-oldhelmetedgasmask", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-aviatorhelmetlowered", 1]}
                 ],
                 "poolRounds" : 1,
                 "allowDuplication" : false
@@ -89,7 +92,8 @@
                 [
                     {"weight" : 0.25, "item" : ["FHR-aussiehat", 1]},
                     {"weight" : 0.25, "item" : ["FHR-pithhat", 1]},
-                    {"weight" : 0.1, "item" : ["FHR-gunslingerhat", 1]}
+                    {"weight" : 0.1, "item" : ["FHR-gunslingerhat", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-goggledpithhat", 1]}
                 ],
                 "poolRounds" : 1,
                 "allowDuplication" : false
@@ -122,7 +126,9 @@
                 [
                     {"weight" : 0.25, "item" : ["FHR-sporemask", 1]},
                     {"weight" : 0.25, "item" : ["FHR-sporehat", 1]},
-                    {"weight" : 0.25, "item" : ["FHR-simplehood", 1]}
+                    {"weight" : 0.25, "item" : ["FHR-simplehood", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-hoodedsporemask", 1]},
+                    {"weight" : 0.25, "item" : ["FHR-hattedsporemask", 1]}
                 ],
                 "poolRounds" : 1,
                 "allowDuplication" : false

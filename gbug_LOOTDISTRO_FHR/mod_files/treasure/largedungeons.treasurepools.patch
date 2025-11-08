@@ -21,6 +21,17 @@
    ]
   }
  },
+  {
+  "op": "add",
+  "path": "/hylotlcityChestTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.02,
+   "item": [
+    "FHR-conicalhat",
+    1
+   ]
+  }
+ },
  {
   "op": "add",
   "path": "/hylotlruinedcityChestTreasure/0/1/pool/-",
@@ -36,7 +47,7 @@
   "op": "add",
   "path": "/humancampChestTreasure/0/1/pool/-",
   "value": {
-   "weight": 0.01,
+   "weight": 0.1,
    "pool": "FHR-humanCasual"
   }
  },

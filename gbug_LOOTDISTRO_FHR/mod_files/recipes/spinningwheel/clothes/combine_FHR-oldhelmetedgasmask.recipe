@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "FHR-oldgasmask", "count" : 1 },
-    { "item" : "FHR-oldsoldierhelmet", "count" : 1 }
-  ],
-  "duration" : 5,
-  "output" : { "item" : "FHR-oldhelmetedgasmask", "count" : 1 },
-  "groups" : [ "craftingwheel", "clothes", "hats" ]
-}

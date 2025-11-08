@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "FHR-simpleconicalhat", "count" : 1 },
-    { "item" : "canvas", "count" : 1 }
-  ],
-  "duration" : 5,
-  "output" : { "item" : "FHR-conicalhat", "count" : 1 },
-  "groups" : [ "craftingwheel", "clothes", "hats" ]
-}

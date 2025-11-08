@@ -1,9 +1,8 @@
 {
   "version" : "1.0",
   "author" : "GeneralBug",
-  "description" : "Distributes the hats added by Foxer's Headgear Revisited (and others) into various loot pools",
-  "name" : "gbug_HatDistro",
-  "friendlyName" : "FHR (and others) Loot Distribution",
-  "includes" : ["FoxersHeadgearRevisited"],
-  "priority" : 99
+  "description" : "Distributes the hats added by Foxer's Headgear Revisited into various loot pools",
+  "name" : "gbug_FHR_LootDistro",
+  "friendlyName" : "FHR Loot Distribution",
+  "includes" : ["FoxersHeadgearRevisited"]
 }

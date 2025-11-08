@@ -13,7 +13,7 @@
   "value": {
    "weight": 0.3,
    "item": [
-    "FHR-winterhod",
+    "FHR-winterhood",
     1
    ]
   }
@@ -24,6 +24,14 @@
   "value": {
    "weight": 0.05,
    "item": "FHR-booniehat"
+  }
+ },
+ {
+  "op": "add",
+  "path": "/swampTreasure/0/1/pool/-",
+  "value": {
+   "weight": 0.05,
+   "item": "FHR-coveredboonie"
   }
  },
  {
