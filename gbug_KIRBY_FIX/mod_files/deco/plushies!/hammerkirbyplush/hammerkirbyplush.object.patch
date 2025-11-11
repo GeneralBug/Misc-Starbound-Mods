@@ -1,0 +1,22 @@
+[
+    {
+        "op": "test",
+        "path": "/inventoryIcon",
+        "value": "normal_kirbyicon.png"
+    },
+    {
+        "op": "replace",
+        "path": "/inventoryIcon",
+        "value": "hammer_kirbyicon.png"
+    },
+    {
+        "op": "replace",
+        "path": "/objectName",
+        "value": "kirb_kirbyplush.png"
+    },
+    {
+        "op": "replace",
+        "path": "/objectName",
+        "value": "kirb_hammerkirbyplush"
+    }
+]

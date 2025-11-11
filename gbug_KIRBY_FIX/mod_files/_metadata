@@ -1,0 +1,7 @@
+{
+  "version" : "1.0",
+  "author" : "GeneralBug",
+  "name" : "gbug_KIRBY_FIX",
+  "friendlyName" : "Kirby Plush Fix",
+  "includes" : ["kirby plush"]
+}
