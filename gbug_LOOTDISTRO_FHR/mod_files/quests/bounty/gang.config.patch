@@ -1,0 +1,143 @@
+[
+    {
+        "op": "add",
+        "path": "/hatPrefix/FHR-thebluesplayer",
+        "value": 
+        [
+            "Blues"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatMid/FHR-thebluesplayer",
+        "value": 
+        [
+            " Brother"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatPrefix/FHR-policehat",
+        "value": 
+        [
+            "Dirty",
+            "Corrupt"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatMid/FHR-policehat",
+        "value": 
+        [
+            " Pig"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatPrefix/FHR-protectorateberet",
+        "value": 
+        [
+            "Corrupt",
+            "Sussy"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatMid/FHR-protectorateberet",
+        "value": 
+        [
+            " Impostor"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatPrefix/FHR-fishbowl",
+        "value": 
+        [
+            "Fishy",
+            "Wet",
+            "Gold"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatMid/FHR-fishbowl",
+        "value": 
+        [
+            " Fish"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatPrefix/FHR-backwardcap",
+        "value": 
+        [
+            "Tubular",
+            "Phat",
+            "Bodacious"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatMid/FHR-backwardcap",
+        "value": 
+        [
+            " Teen"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatPrefix/FHR-aviatorhelmetlowered",
+        "value": 
+        [
+            "Flighty",
+            "Airborne"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatMid/FHR-aviatorhelmetlowered",
+        "value": 
+        [
+            " Aviator",
+            " Pilot"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatPrefix/FHR-aussiehat",
+        "value": 
+        [
+            "True Blue",
+            "Bush"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatMid/FHR-aussiehat",
+        "value": 
+        [
+            " Bogan",
+            " Ranger"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatPrefix/FHR-hockeymask",
+        "value": 
+        [
+            "Murderous",
+            "Rampaging"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/hatPrefix/FHR-hoodedsporemask",
+        "value": 
+        [
+            "Masked",
+            "Wary",
+            "Cautious"
+        ]
+    }
+]

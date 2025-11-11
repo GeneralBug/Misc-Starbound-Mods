@@ -6,13 +6,13 @@
     },
     {
         "op": "replace",
-        "path": "openSounds",
+        "path": "/openSounds",
         "value": ["/sfx/objects/console_generic_switchon.ogg"]
 
     },
     {
         "op": "replace",
-        "path": "closeSounds",
+        "path": "/closeSounds",
         "value": ["/sfx/objects/console_generic_switchoff.ogg"]
     }
 ]

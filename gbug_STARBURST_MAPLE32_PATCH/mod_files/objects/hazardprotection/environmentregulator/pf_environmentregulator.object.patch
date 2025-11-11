@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "An atmospheric control system that protects the area around it from ^red;all conventional hazards^reset;"
+    }
+]

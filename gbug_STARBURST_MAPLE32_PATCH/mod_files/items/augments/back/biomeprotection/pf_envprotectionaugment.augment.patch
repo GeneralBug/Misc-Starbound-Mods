@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "An EPP module that makes you immune to ^red;all conventional hazards.^white;"
+    }
+]

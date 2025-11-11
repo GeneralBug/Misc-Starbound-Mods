@@ -4,5 +4,16 @@
         "op": "replace",
         "path": "/groups",
         "value":  ["pf_craftingplanetresist3", "augments"]
+    },
+    {
+        "op": "test",
+        "path": "/input/3/item",
+        "value": "siliconboard"
+    },
+    {
+        "op": "replace",
+        "path": "/input/3",
+        "value": { "item" : "stickofram", "count" : 3 }
+        
     }
 ]
