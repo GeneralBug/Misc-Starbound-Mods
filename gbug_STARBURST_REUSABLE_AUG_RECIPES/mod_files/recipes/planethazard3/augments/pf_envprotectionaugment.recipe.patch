@@ -1,0 +1,16 @@
+[
+    {
+        "op": "replace",
+        "path": "/input",
+        "value": [
+	                { "item" : "stickofram", "count" : 6 },
+	                { "item" : "essence", "count" : 1000 },
+	                { "item" : "pf_biomeoxygenaugment", "count" : 1 },
+	                { "item" : "iceblockaugment", "count" : 1 },
+	                { "item" : "fireblockaugment", "count" : 1 },
+	                { "item" : "electricblockaugment", "count" : 1 },
+	                { "item" : "poisonblockaugment", "count" : 1 },
+	                { "item" : "pf_radiationblockaugment", "count" : 1 }
+                ]
+    }
+]

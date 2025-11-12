@@ -1,0 +1,16 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_STARBURST_REUSABLE_AUG_RECIPES/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_STARBURST_REUSABLE_AUG_RECIPES/_previewimage"
+	"visibility"		"0"
+	"title"		"Starburst Reusable Augments Recipe Tweaks"
+	"description"		"Does the following:
+   - Each second tier protection augment now requires the lower tier one
+   - The universal augment requires all others to craft, similar to the EPP
+   - The universal augment and EPP essence cost has been increased, mostly to balance against mods like Starforge that give you access to essence much earlier than vanilla
+   - The universal augment and regulator now grant oxygen, similar to the EPP
+   
+   This mod is intended to be used with a mod that makes augments no longer consumable like [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2358010162]Reusable Augments[/url] or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=855668523]Augment Extractor[/url], but they aren't strictly necessary."
+	"publishedfileid"		"3604249558"
+}

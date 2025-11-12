@@ -1,0 +1,12 @@
+[
+    {
+        "op": "test",
+        "path": "/input/0/item",
+        "value": "essence"
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/count",
+        "value": 1000
+    }
+]

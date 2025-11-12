@@ -1,0 +1,12 @@
+[
+    {
+        "op": "test",
+        "path": "/input/0/item",
+        "value": "stickofram"
+    },
+    {
+        "op": "replace",
+        "path": "/input/0",
+        "value": {"item" : "pf_biomeradiationaugment", "count" : 1}
+    }
+]

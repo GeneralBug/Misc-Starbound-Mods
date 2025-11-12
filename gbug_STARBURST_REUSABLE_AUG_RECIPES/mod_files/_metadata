@@ -1,0 +1,7 @@
+{
+  "version" : "1.0",
+  "author" : "GeneralBug",
+  "name" : "gbug_STARBURST_REUSABLE_AUG_RECIPES",
+  "friendlyName" : "Starburst Reusable Augments Recipe Tweaks",
+  "includes" : ["StarburstRework"]
+}
