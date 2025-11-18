@@ -1,0 +1,7 @@
+{
+  "version" : "1.0",
+  "author" : "GeneralBug",
+  "name" : "gbug_Pride_Banners_2",
+  "friendlyName" : "Pride Banners Deluxe Edition",
+  "includes" : ["pridebanners"]
+}

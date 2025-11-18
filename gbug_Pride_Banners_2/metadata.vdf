@@ -1,0 +1,17 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Pride_Banners_2/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Pride_Banners_2/_previewimage"
+	"visibility"		"0"
+	"title"		"Pride Banners Deluxe Edition"
+	"description"		"This mod builds upon [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2302120911]Pride Banners[/url] by doing the following:
+	 - Adds small versions of every banner to match [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2732685709]Race Banners Redux[/url]
+	 - Adds the intersex and gay flag banners (also renames the rainbow banner to rainbow)
+	 - Jazzes up the existing banners with reversability, anchor points more in line with Race Banners Redux, and other slight texture tweaks
+	 - Text changes and stuff! As of 1.0 I haven't rewritten all the scan dialogue to be unique for each but that is planned
+	 - Probably other stuff! Maybe!
+	 
+	The small banners are crafted at the tier 1 spinning wheel, and the big ones are still tier 2. Also there are heaps and by default they're all in the clothing tab so you should use my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2810673953]banner tab mod[/url]"
+	"publishedfileid"		"3607333701"
+}

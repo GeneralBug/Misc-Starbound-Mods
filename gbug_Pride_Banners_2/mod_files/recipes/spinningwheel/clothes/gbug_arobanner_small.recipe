@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "cottonwool", "count" : 5 },
+	{ "item" : "prisiliteore", "count" : 5 }
+  ],
+  "duration" : 10,
+  "output" : { "item" : "gbug_arobanner_small", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

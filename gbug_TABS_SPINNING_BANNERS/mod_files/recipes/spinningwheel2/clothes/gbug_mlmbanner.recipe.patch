@@ -1,0 +1,12 @@
+[
+	{
+		"op" : "test",
+		"path" : "/groups/1",
+		"value" : "clothes"
+	},
+	{
+		"op" : "replace",
+		"path" : "/groups/1",
+		"value" : "racebanner"
+	}
+]

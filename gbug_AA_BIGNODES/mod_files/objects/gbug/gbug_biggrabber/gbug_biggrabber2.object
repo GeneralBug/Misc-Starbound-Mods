@@ -28,7 +28,7 @@
 	"scripts" : [ "/objects/kheAA/kheAA_grabber/kheAA_grabber.lua"],
 	"scriptDelta" : 1,
 
-	"animation" : "/objects/gbug/gbug_biggrabber/gbug_biggrabber.animation",
+	"animation" : "/objects/kheAA/kheAA_grabber/kheAA_grabber.animation",
 
 	"animationParts" : {
 		"grabber" : "gbug_biggrabber.png"

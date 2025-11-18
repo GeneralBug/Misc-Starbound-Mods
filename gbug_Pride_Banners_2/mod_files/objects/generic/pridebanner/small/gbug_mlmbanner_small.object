@@ -1,0 +1,38 @@
+{
+  "objectName" : "gbug_mlmbanner_small",
+  "rarity" : "Rare",
+  "description" : "A small gay pride banner.",
+  "shortdescription" : "Small Gay Banner",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 80,
+  "printable" : false,
+
+  "apexDescription": "A pride banner. Wonderful.",
+  "avianDescription": "Who ever put it there should be supported.",
+  "floranDescription": "Pride banner makesss Floran feel happy.",
+  "glitchDescription": "Proud. I'm glad to be a part of this.",
+  "humanDescription": "A big bright pride banner! I wish I could fit one in my dorm.",
+  "hylotlDescription": "Showing your pride is important. It means a lot to us all.",
+  "novakidDescription" : "Yeehaw",
+
+  "inventoryIcon" : "gbug_mlmbanner_smallicon.png",
+  "orientations" : [
+    {
+      "leftImage" : "gbug_mlmbanner_small.png:<color>",
+      "rightImage" : "gbug_mlmbanner_small_r.png:<color>",
+      "imagePosition" : [-8, -32],
+
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [-1, 0], [0, 0], [1, 0] ]
+    },
+    {
+      "leftImage" : "gbug_mlmbanner_small.png:<color>",
+      "rightImage" : "gbug_mlmbanner_small_r.png:<color>",
+      "imagePosition" : [-8, -32],
+
+      "spaceScan" : 0.1,
+      "fgAnchors" : [ [-1, 1], [0, 1], [1, 1] ]
+    }
+  ]
+}

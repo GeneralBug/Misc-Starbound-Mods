@@ -7,12 +7,10 @@
   "title" "Automation Aides Addon and Adjustments"
   "description" "An addon/patch/mod/thing for Automation Aides that makes some changes:
 - Many network components have overflowing wire nodes, which can lead to issues if you aren't careful how you place them. To fix this, I've added 'big' versions of objects with bounding boxes that cover all their wire nodes. The original versions, which remain unchanged (beside name), can now be crafted from the new wiring station tab using the big versions.
-- Changed the texture for storage bridges (and other objects that share it) to be the correct pixel scale; previously it was scaled down at runtime from 16x16.
+- Changed the texture for (most) items, generally to fit the industrial furniture set (because I like it). The regular terminal looks the same (though I jazzed it up a bit with glowy text), but I made a second one to look industrial.
 - Renamed the 'Colony Deed Rent Collector' to 'Colony Rent Signal' for better clarity.
+- Added three new storage containers; the storage buffer, inlet and outlet. They're all 16 capacity wall mounted containers, intended for use as input or output from systems (for example, a nice looking dump chest). They're all crafted at the industrial workbench.
 
-Some current issue:
-- Many of the textures from AA have 'activated' versions, but I don't think they work properly and I don't know how to fix it.
-- The spout outputs from the left side rather than the middle. Again, I don't know how to fix it and don't mind it enough to try too hard.
 
-To reiterate, this mod makes no changes to the functionality of anything from the main mod, nor will installing it break existing networks (hopefully)."
+To clarify, this mod makes no changes to the functionality of anything from the main mod, nor will installing it break existing networks (hopefully)."
 }

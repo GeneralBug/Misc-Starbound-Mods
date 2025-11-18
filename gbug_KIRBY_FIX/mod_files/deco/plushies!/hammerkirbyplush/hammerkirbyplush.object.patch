@@ -10,13 +10,28 @@
         "value": "hammer_kirbyicon.png"
     },
     {
-        "op": "replace",
+        "op": "test",
         "path": "/objectName",
-        "value": "kirb_kirbyplush.png"
+        "value": "kirb_kirbyplush"
     },
     {
         "op": "replace",
         "path": "/objectName",
         "value": "kirb_hammerkirbyplush"
+    },
+    {
+        "op": "test",
+        "path": "/orientations/0/image",
+        "value": "normal_kirby.png"
+    },  
+    {
+        "op": "replace",
+        "path": "/orientations/0/image",
+        "value": "hammer_kirby.png"
+    },
+    {
+        "op": "replace",
+        "path": "/orientations/1/image",
+        "value": "hammer_kirby.png"
     }
 ]

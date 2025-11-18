@@ -27,7 +27,7 @@
 	"scripts" : [ "/objects/kheAA/kheAA_spout/kheAA_dropper.lua"],
 	"scriptDelta" : 1,
 
-	"animation" : "/objects/gbug/gbug_bigspout/gbug_bigspout.animation",
+	"animation" : "/objects/kheAA/kheAA_spout/kheAA_spout.animation",
 
 	"animationParts" : {
 		"spout" : "gbug_bigspout.png"

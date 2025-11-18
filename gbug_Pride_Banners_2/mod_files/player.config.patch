@@ -1,0 +1,14 @@
+[ 
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_acebanner_small"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_arobanner_small"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_bibanner_small"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_interbanner_small"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_lesbianbanner_small"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_mlmbanner_small"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_nbbanner_small"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_panbanner_small"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_rainbowbanner_small"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_transbanner_small"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_interbanner"}},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_mlmbanner"}}
+]
