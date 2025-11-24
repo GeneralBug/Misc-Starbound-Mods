@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "cottonwool", "count" : 10 },
+	{ "item" : "prisiliteore", "count" : 10 }
+  ],
+  "duration" : 10,
+  "output" : { "item" : "gbug_bearbanner", "count" : 1 },
+  "groups" : [ "craftingwheel2", "clothes" ]
+}

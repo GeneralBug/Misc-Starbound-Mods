@@ -1,0 +1,38 @@
+{
+  "objectName" : "gbug_femboybanner_small",
+  "rarity" : "Rare",
+  "description" : "A small femboy pride banner.",
+  "shortdescription" : "Small Femboy Banner",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+
+  "apexDescription": ":3",
+  "avianDescription": ":3",
+  "floranDescription": ":3",
+  "glitchDescription": ":3",
+  "humanDescription": ":3",
+  "hylotlDescription": ":3",
+  "novakidDescription" : "Yeehaw",
+
+  "inventoryIcon" : "gbug_femboybanner_smallicon.png",
+  "orientations" : [
+    {
+      "leftImage" : "gbug_femboybanner_small.png:<color>",
+      "rightImage" : "gbug_femboybanner_small_r.png:<color>",
+      "imagePosition" : [-8, -32],
+
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [-1, 0], [0, 0], [1, 0] ]
+    },
+    {
+      "leftImage" : "gbug_femboybanner_small.png:<color>",
+      "rightImage" : "gbug_femboybanner_small_r.png:<color>",
+      "imagePosition" : [-8, -32],
+
+      "spaceScan" : 0.1,
+      "fgAnchors" : [ [-1, 1], [0, 1], [1, 1] ]
+    }
+  ]
+}

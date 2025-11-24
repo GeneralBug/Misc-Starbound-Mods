@@ -6,6 +6,6 @@
   "name" : "ManyTabsRaceBannersRedux",
   "steamContentId" : "2810673953",
   "tags" : "Crafting and Building|User Interface",
-  "version" : "v3.4",
-  "includes" : ["FelinBannersRecipe", "RaceBannersRedux", "gbug_VanillaBannersRecipe", "many_tabs1", "pridebanners", "gbug_Pride_Banners_2" ]
+  "version" : "3.6",
+  "includes" : ["FelinBannersRecipe", "RaceBannersRedux", "gbug_VanillaBannersRecipe", "Orcana", "many_tabs1", "pridebanners", "gbug_Pride_Banners_2" ]
 }

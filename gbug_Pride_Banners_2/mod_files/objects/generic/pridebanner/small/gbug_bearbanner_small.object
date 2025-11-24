@@ -1,8 +1,8 @@
 {
-  "objectName" : "gbug_bibanner_small",
+  "objectName" : "gbug_bearbanner_small",
   "rarity" : "Rare",
-  "description" : "A small bi pride banner.",
-  "shortdescription" : "Small Bi Banner",
+  "description" : "A small bear pride banner.",
+  "shortdescription" : "Small Bear Banner",
   "race" : "generic",
   "category" : "decorative",
   "price" : 50,
@@ -16,19 +16,19 @@
   "hylotlDescription": "Showing your pride is important. It means a lot to us all.",
   "novakidDescription" : "Yeehaw",
 
-  "inventoryIcon" : "gbug_bibanner_smallicon.png",
+  "inventoryIcon" : "gbug_bearbanner_smallicon.png",
   "orientations" : [
     {
-      "leftImage" : "gbug_bibanner_small.png:<color>",
-      "rightImage" : "gbug_bibanner_small_r.png:<color>",
+      "leftImage" : "gbug_bearbanner_small.png:<color>",
+      "rightImage" : "gbug_bearbanner_small_r.png:<color>",
       "imagePosition" : [-8, -32],
 
       "spaceScan" : 0.1,
       "bgAnchors" : [ [-1, 0], [0, 0], [1, 0] ]
     },
     {
-      "leftImage" : "gbug_bibanner_small.png:<color>",
-      "rightImage" : "gbug_bibanner_small_r.png:<color>",
+      "leftImage" : "gbug_bearbanner_small.png:<color>",
+      "rightImage" : "gbug_bearbanner_small_r.png:<color>",
       "imagePosition" : [-8, -32],
 
       "spaceScan" : 0.1,
