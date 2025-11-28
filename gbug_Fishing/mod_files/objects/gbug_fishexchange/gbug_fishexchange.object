@@ -1,0 +1,76 @@
+{
+  "objectName" : "gbug_fishexchange",
+  "colonyTags" : ["fish", "fishing", "commerce", "industrial"],
+  "rarity" : "Uncommon",
+  "description" : "Trade in your catch for those sweet dubloons, wirelessly! (please ignore all the wires on the back)",
+  "shortdescription" : "Digital Fish Exchange",
+  "subtitle" : "Exchange fish for money",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 1000,
+  "objectType" : "container",
+  "printable" : false,
+  "health" : 1.5,
+
+  "apexDescription" : "I can sell fish using this state of the art console.",
+  "avianDescription" : "Selling fish over the internet. Helpful.",
+  "floranDescription" : "Machine take fishesss, give money.",
+  "glitchDescription" : "Neutral. Fish can be exchanged for currency here.",
+  "humanDescription" : "It eats fish! Sort of...",
+  "hylotlDescription" : "A complex device for teleporting fish to a central market.",
+  "novakidDescription" : "Giddy up!",
+  "avaliDescription" : "A complex device for teleporting fish to a central market.",
+  "orcanaDescription" : "Selling fish over the internet. Helpful.",
+
+  "lightColor" : [38, 110, 70],
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.1,
+  "flickerIntensityVariance" : 0.0,
+
+  "inventoryIcon" : "/objects/space/industrialcomputer/industrialcomputericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "gbug_fishexchange.png:<color>.<frame>", "fullbright" : true }, { "image" : "gbug_fishexchangelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-12, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [[0,3], [1,3], [2,3]],
+
+      "frames" : 4,
+      "animationCycle" : 0.8
+    },
+    {
+      "imageLayers" : [ { "image" : "gbug_fishexchange.png:<color>.<frame>", "fullbright" : true }, { "image" : "gbug_fishexchangelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [[-1,3], [0,3], [1,3]],
+
+      "frames" : 4,
+      "animationCycle" : 0.8
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/bunkerconsole.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "statusEffects" : [ ],
+
+  "recipeGroup" : "fish_exchange",
+  "openSounds" : [ "/sfx/objects/console_generic_switchon.ogg" ],
+  "closeSounds" : [ "/sfx/objects/console_generic_switchoff.ogg" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/gbug_fishexchange.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

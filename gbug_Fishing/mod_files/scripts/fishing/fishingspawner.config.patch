@@ -1,0 +1,13 @@
+[
+  {
+    "op": "replace",
+    "path": "/rarities",
+    "value": 
+	[
+    	[0.01, "legendary"],
+    	[0.10, "rare"],
+    	[0.25, "uncommon"],
+    	[100, "common"]
+  	]
+  }
+]

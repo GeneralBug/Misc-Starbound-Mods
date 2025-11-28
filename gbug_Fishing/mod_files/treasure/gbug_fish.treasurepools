@@ -1,0 +1,16 @@
+{
+    // ==== VANILLA ====
+    // SMALL
+    "fishingjerk" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_jerk"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ]
+    // MEDIUM
+
+    // LARGE 
+
+}

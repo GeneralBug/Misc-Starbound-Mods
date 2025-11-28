@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "gbug_fishdubloon", "count" : 25 }
+  ],
+  "output" : { "item" : "gbug_rewardbag_fishingPrize", "count" : 1 },
+  "groups" : [ "gbug_fishingstore", "rewards" ]
+}

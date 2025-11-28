@@ -1,0 +1,48 @@
+{
+  "objectName" : "gbug_fishtrophy_dirt",
+  "colonyTags" : ["fish","fishing","ocean"],
+  "rarity" : "Common",
+  "description" : "'This fish has evolved two extra eyes just for looking disappointed.'",
+  "shortdescription" : "Sandy Dirtwhisker Trophy",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 500,
+  "printable" : false,
+
+  "inventoryIcon" : "smallicon.png",
+  "orientations" : [
+    {
+      "image" : "gbug_fishtrophy_dirt.png:<color>.<frame>",
+
+      "imagePosition" : [-8, -8],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "gbug_fishtrophy_dirt.png:<color>.<frame>",
+
+      "imagePosition" : [-8, -8],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "gbug_fishtrophy_dirt.png"
+  },
+  "animationPosition" : [-8, -8],
+  "scripts" : [ "/objects/fish_trophies/fish_trophy.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : true,
+
+  "inputNodes" : [ [0, 0] ]
+}

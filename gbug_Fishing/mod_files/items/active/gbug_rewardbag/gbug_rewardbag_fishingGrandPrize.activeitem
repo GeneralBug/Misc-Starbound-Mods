@@ -1,0 +1,25 @@
+{
+  "itemName" : "gbug_rewardbag_fishingGrandPrize",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "You can see something extra valuable rattling around inside!",
+  "shortdescription" : "Rare Loot in a Bottle",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "gbug_rewardbag_fishingicon.png",
+  "largeImage" : "gbug_rewardbag_fishing.png",
+  "animation" : "gbug_rewardbag_fishing.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
+
+  "fireTime" : 1.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "fishingGrandPrize",
+    "level" : 1
+  }
+}

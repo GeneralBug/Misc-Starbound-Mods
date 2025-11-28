@@ -1,0 +1,7 @@
+{
+  "version" : "1.0",
+  "author" : "GeneralBug",
+  "name" : "gbug_Fishing_Krakoth",
+  "friendlyName" : "Fishing Mod K'Rakoth Patch",
+  "includes" : ["gbug_Fishing", "precursorracekrakoth"]
+}

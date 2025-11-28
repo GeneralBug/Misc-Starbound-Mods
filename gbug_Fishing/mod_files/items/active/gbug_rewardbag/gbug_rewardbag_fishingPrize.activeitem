@@ -1,0 +1,24 @@
+{
+  "itemName" : "gbug_rewardbag_fishingPrize",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mysteriousReward",
+  "description" : "You can see something valuable rattling around inside!",
+  "shortdescription" : "Loot in a Bottle",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "gbug_rewardbag_fishingicon.png",
+  "animation" : "gbug_rewardbag_fishing.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/unsorted/rewardbag/rewardbag.lua"],
+
+  "fireTime" : 1.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "fishingPrize",
+    "level" : 1
+  }
+}

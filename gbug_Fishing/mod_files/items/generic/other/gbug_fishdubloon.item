@@ -1,0 +1,9 @@
+{
+  "itemName" : "gbug_fishdubloon",
+  "price" : 0,
+  "rarity" : "Uncommon",
+  "category" : "currency",
+  "inventoryIcon" : "gbug_fishdubloon.png",
+  "description" : "A token traded among anglers.",
+  "shortdescription" : "Jelly Dubloon"
+}

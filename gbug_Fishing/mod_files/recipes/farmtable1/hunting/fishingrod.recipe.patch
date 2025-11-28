@@ -1,0 +1,12 @@
+[
+    {
+        "op": "test",
+        "path": "/input/1/item",
+        "value": "titaniumbar"
+    },
+    {
+        "op": "replace",
+        "path": "/input/1/item",
+        "value": "tungstenbar"
+    }
+]

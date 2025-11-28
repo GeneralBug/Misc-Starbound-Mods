@@ -1,0 +1,73 @@
+{
+  "itemName" : "gbug_fishitem_chirp",
+  "price" : 400,
+  "level" : 1,
+  "rarity" : "Uncommon",
+  "category" : "Tool",
+  "tooltipKind" : "tool",
+  "description" : "This one has stage fright.",
+  "shortdescription" : "chirpfish",
+  "twoHanded" : false,
+  "itemTags" : ["fish"],
+  "inventoryIcon" : "gbug_fishitem_chirp.png:idle",
+  "largeImage" : "gbug_fishitem_chirp.png:idle",
+
+  "animation" : "/items/active/gbug_fishitem/gbug_fishitem.animation",
+  "animationParts" : {
+    "bugnet" : "gbug_fishitem_chirp.png",
+    "swoosh" : "/items/active/unsorted/bugnet/swoosh.png"
+  },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
+    "class" : "MeleeSlash",
+
+    "fireTime" : 1.5,
+    "baseDps" : 0.01,
+    "damageConfig" : {
+      "damageSourceKind" : "default",
+      "statusEffects" : [ ],
+      "knockback" : 0,
+      "knockbackMode" : "facing",
+      "timeoutGroup" : "primary"
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 5,
+        "weaponRotation" : -90,
+        "allowRotate" : false,
+        "allowFlip" : true
+      },
+      "windup" : {
+        "duration" : 0.3,
+        "armRotation" : 60,
+        "weaponRotation" : 10,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : true,
+
+        "animationStates" : {
+          "net" : "hang"
+        }
+      },
+      "fire" : {
+        "duration" : 0.4,
+        "armRotation" : -45,
+        "weaponRotation" : -55,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false,
+
+        "animationStates" : {
+          "net" : "swing"
+        }
+      }
+    }
+  }
+}
