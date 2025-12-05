@@ -1,0 +1,12 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_STEAMPUNKHANDPATCH/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_STEAMPUNKHANDPATCH/preview.png"
+	"visibility"		"0"
+	"title"		"SteampunkCrafting - Handcrafting Expansion Rail Crafting Patch"
+  "description"		"Patches the steampunk rail and pet stations to use Handcrafting Expansion's versions so they work together properly.
+
+Doesn't include [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2810272474]Many Tabs Rail Crafting[/url] but is required to make it work for this station."
+	"publishedfileid"		"2817147073"
+}

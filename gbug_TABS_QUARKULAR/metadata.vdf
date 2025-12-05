@@ -2,9 +2,11 @@
 {
 	"appid"		"211820"
 	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_QUARKULAR/contents"
-	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_QUARKULAR/_previewimage"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_QUARKULAR/preview.png"
 	"visibility"		"0"
-	"title"		"Many Tabs Quarkular Furnace"
-  "description"		"Changes the quarkular furnaceto use the same interface as the regular one and reimplements it's salvage tab with Many Tabs, thus making it compatible with other Many-Tabs-based furnace addons and fun interface stuff like Extended GUI and Filter by Rarity.\n\nThe one downside to this is that all furnace tiers will have an empty salvage tab, but I don't know if you can set it up to only appear on a given tier without overriding the whole interface like it did originally anyway."
+	"title"		"[Many Tabs] Quarkular Furnace"
+  "description"		"Changes the quarkular furnace to use the same interface as the regular one and reimplements it's salvage tab with Many Tabs, thus making it compatible with other Many-Tabs-based furnace addons and fun interface stuff like Extended GUI and Filter by Rarity.
+
+The one downside to this is that all furnace tiers will have an empty salvage tab, but I don't know if you can set it up to only appear on a given tier without overriding the whole interface like it did originally anyway."
 	"publishedfileid"		"2816654045"
 }

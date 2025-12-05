@@ -1,0 +1,48 @@
+{
+  "objectName" : "gbug_fishtrophy_leech",
+  "colonyTags" : ["fish","fishing","volcanic"],
+  "rarity" : "Uncommon",
+  "description" : "'It has the highest tooth to body ratio of any known fish.'",
+  "shortdescription" : "Lampred Trophy",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 1000,
+  "printable" : false,
+
+  "inventoryIcon" : "mediumicon.png",
+  "orientations" : [
+    {
+      "image" : "gbug_fishtrophy_leech.png:<color>.<frame>",
+
+      "imagePosition" : [-12, -8],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "gbug_fishtrophy_leech.png:<color>.<frame>",
+
+      "imagePosition" : [-12, -8],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "gbug_fishtrophy_leech.png"
+  },
+  "animationPosition" : [-12, -8],
+  "scripts" : [ "/objects/fish_trophies/fish_trophy.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : true,
+
+  "inputNodes" : [ [0, 0] ]
+}

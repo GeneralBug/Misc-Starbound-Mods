@@ -2,7 +2,7 @@
 	{
 		"op" : "test",
 		"path" : "/groups/1",
-		"value" : "bars"
+		"value" : "ingredients"
 	},
 	{
 		"op" : "replace",

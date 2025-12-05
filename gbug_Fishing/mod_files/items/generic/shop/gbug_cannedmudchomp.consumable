@@ -1,0 +1,18 @@
+{
+  "itemName" : "gbug_cannedmudchomp",
+  "rarity" : "Common",
+  "price" : 60,
+  "category" : "food",
+  "inventoryIcon" : "gbug_cannedmudchomp.png",
+  "description" : "Goes great on sandwiches!",
+  "shortdescription" : "Canned Mudchomp",
+  "foodValue" : 50,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

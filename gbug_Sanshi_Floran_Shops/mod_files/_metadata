@@ -1,0 +1,7 @@
+{
+  "version" : "1.1",
+  "author" : "GeneralBug",
+  "name" : "gbug_Sanshi_Floran_Shops",
+  "friendlyName" : "Alternative Floran Head Object Patch",
+  "includes" : ["gbug_Fishing", "TerraTabs", "open_ui", "many_tabs2"]
+}

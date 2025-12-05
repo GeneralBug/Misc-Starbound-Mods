@@ -1,11 +1,11 @@
 {
   "author" : "GeneralBug",
   "description" : "Patches the outpost rail and station to use Handcrafting Expansion's version so they work together properly.",
-  "friendlyName" : "More Outpost Objects - Handcrafting Expansion Patch",
+  "friendlyName" : "More Outpost Objects - Handcrafting Expansion Rail Crafting Patch",
   "link" : "steam://url/CommunityFilePage/2817156244",
   "name" : "OutpostObjectsHandcraftingPatch",
   "priority" : 9001,
   "steamContentId" : "2817156244",
   "tags" : "Crafting and Building|User Interface",
-  "version" : "v1"
+  "version" : "1.0"
 }

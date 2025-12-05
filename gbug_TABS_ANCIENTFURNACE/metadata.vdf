@@ -1,0 +1,12 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_ANCIENTFURNACE/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_ANCIENTFURNACE/preview.png"
+	"visibility"		"0"
+	"title"		"[Many Tabs] Project Ancient Cosmos Furnace Patch"
+	"description"		"Makes Project Ancient Cosmos' Ancient Furnace use the vanilla furnace interface, making it compatible with Many Tabs (and anything else that changes that interface like Extended GUI).
+
+Important note: this is unnecessary if you use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3617472275]Cosmosburst[/url], as that replaces the standalone furnace for an upgrade to the vanilla one, making it inherently compatible with everything."
+	"publishedfileid"		"2841407983"
+}

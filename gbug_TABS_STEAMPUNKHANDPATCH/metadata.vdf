@@ -1,0 +1,12 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_OUTPOSTHANDPATCH/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_OUTPOSTHANDPATCH/preview.png"
+	"visibility"		"0"
+	"title"		"More Outpost Objects - Handcrafting Expansion Rail Crafting Patch"
+  "description"		"Patches the outpost rail station to use Handcrafting Expansion's version so they work together properly.
+
+Doesn't include [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2810272474]Many Tabs Rail Crafting[/url] but is required to make it work for this station."
+	"publishedfileid"		"2817156244"
+}

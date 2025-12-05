@@ -3,7 +3,7 @@
 		"op": "add",
 		"path": "/modTab/-",
 		"value": {
-			"file": "/interface/mt_crafting/gbug/tabicon_Nuuadditive.png",
+			"file": "/interface/mt_crafting/gbug/tabicon_polymer.png",
 			"filter": ["maplefurnace"]
 		}
 	}

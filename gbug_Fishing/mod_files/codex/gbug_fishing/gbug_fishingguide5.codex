@@ -1,0 +1,21 @@
+{
+  "id" : "gbug_fishingguide5",
+  "species" : "floran",
+  "title" : "^#b9c932;HGF^white;: Keeping Your Catch",
+  "description" : "The only zine with all the juicy tips you need to fish like a floran!",
+  "icon" : "gbug_fishingcover3.png",
+  "contentPages" : [
+  "Welcome back everyone, your favourite angler Emi here again with another addition of  ^#b9c932;The Hunter's Guide to Fishing^white;, the only zine with all the juicy tips you need to fish like a floran!
+
+Or, I suppose less like a floran this time; apparently some of you want to *not* eat your catch? I guess there are all sorts of weirdos in a universe this big. Lucky for you, I've heard a trick or two about keeping fish alive!",
+
+"IFirst of all, you'll want a weird little gizmo called a Relocator - I'm no Greenfinger so I have no clue how it works, but basically it sucks up most friendly critters and stores them, kind of like a capture pod. Then you can shoot them back out later in your fancy new aquarium! Don't worry about them running away either; once a fish has been shot out, it'll hang around until you shoot (or stab) it again :Э",
+
+"An extra tip; the Relocator can pick up all sorts of stuff, including most little fish and things that are too small to be interested in your hook; swimming down to grab some would help flesh out your tank a little more :Э"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "uncommon",
+    "price" : 25
+  }
+}

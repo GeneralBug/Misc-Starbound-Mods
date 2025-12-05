@@ -1,0 +1,25 @@
+{
+  "id" : "gbug_fishingguide3",
+  "species" : "floran",
+  "title" : "^#b9c932;HGF^white;: Trading For Stuff",
+  "description" : "The only zine with all the juicy tips you need to fish like a floran!",
+  "icon" : "gbug_fishingcover3.png",
+  "contentPages" : [
+  "Welcome back everyone, your favourite angler Emi here again with another addition of ^#b9c932;The Hunter's Guide to Fishing^white;, the only zine with all the juicy tips you need to fish like a floran!
+
+'So Emi', you're saying, 'I've caught all these dang fish, but I can't possibly eat them all myself! What am I supposed to do!' A great question imaginary reader! It's quite simple; you sell them!", 
+
+"But not just to any old merchant on the street, mind you; they'll give you a few pixels I'm sure, but you want to sell to someone who truly appreciates the value of your rare and exotic catches!
+
+That's where the Digital Fish Exchange comes in; get yourself a nice little terminal with an attached teleporter, and remotely sell your hard earned prey over the internet!", 
+
+"They usually pay with jelly dubloons, which admittedly aren't accepted as currency in most places, but all anglers know their true value and will gladly trade them for all sorts of cool stuff!
+
+An extra tip; the Fish Exchange will accept all fish, both whole and already filleted :Э"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "uncommon",
+    "price" : 25
+  }
+}

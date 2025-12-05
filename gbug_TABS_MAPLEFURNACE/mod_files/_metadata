@@ -1,11 +1,11 @@
 {
   "author" : "GeneralBug",
   "description" : "Adds a tab to the furnace for Maple32 stuff, requires Many Tabs.\n\nI moved everything from the ingredients tab and the non-metal-bar-smelting stuff from the bars tab.",
-  "friendlyName" : "Many Tabs Maple32 (Furnace)",
+  "friendlyName" : "[Many Tabs] Maple32 Furnace Tab",
   "link" : "steam://url/CommunityFilePage/2816710537",
   "name" : "ManyTabsMapleFurnace",
-  "priority" : 2,
+  "includes" : ["Maple32"],
   "steamContentId" : "2816710537",
   "tags" : "Crafting and Building|User Interface",
-  "version" : "v2"
+  "version" : "3.0"
 }

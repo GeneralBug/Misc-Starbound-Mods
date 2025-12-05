@@ -1,11 +1,11 @@
 {
   "author" : "GeneralBug",
   "description" : "Adds a tab for More Outpost Objects, requires Inventor's Table Mod Tab and Many Tabs.",
-  "friendlyName" : "Many Tabs More Outpost Objects (Inventor's Table)",
+  "friendlyName" : "[Many Tabs] More Outpost Objects Inventor's Table Tab",
   "link" : "steam://url/CommunityFilePage/2807826803",
   "name" : "ManyTabsMoreOutpostObjects",
   "priority" : 2,
   "steamContentId" : "2807826803",
   "tags" : "Crafting and Building|User Interface",
-  "version" : "v1"
+  "version" : "1.0"
 }

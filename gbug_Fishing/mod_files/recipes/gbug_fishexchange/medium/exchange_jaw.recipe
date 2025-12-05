@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "gbug_fishitem_jaw", "count" : 1 }
+  ],
+  "output" : { "item" : "gbug_fishdubloon", "count" : 7 },
+  "groups" : [ "fish_exchange" ]
+}

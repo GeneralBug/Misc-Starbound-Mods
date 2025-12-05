@@ -1,0 +1,48 @@
+{
+  "objectName" : "gbug_fishtrophy_tongue",
+  "colonyTags" : ["fish","fishing","ocean"],
+  "rarity" : "Rare",
+  "description" : "'Its body is one long pink muscle, curled tight into a fossilised shell.'",
+  "shortdescription" : "Hermit Tonguile Trophy",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 2000,
+  "printable" : false,
+
+  "inventoryIcon" : "mediumicon.png",
+  "orientations" : [
+    {
+      "image" : "gbug_fishtrophy_tongue.png:<color>.<frame>",
+
+      "imagePosition" : [-12, -8],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "gbug_fishtrophy_tongue.png:<color>.<frame>",
+
+      "imagePosition" : [-12, -8],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "gbug_fishtrophy_tongue.png"
+  },
+  "animationPosition" : [-12, -8],
+  "scripts" : [ "/objects/fish_trophies/fish_trophy.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : true,
+
+  "inputNodes" : [ [0, 0] ]
+}

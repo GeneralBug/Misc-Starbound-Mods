@@ -1,0 +1,23 @@
+{
+  "id" : "gbug_fishingguide4",
+  "species" : "floran",
+  "title" : "^#b9c932;HGF^white;: Weird Oceans",
+  "description" : "The only zine with all the juicy tips you need to fish like a floran!",
+  "icon" : "gbug_fishingcover3.png",
+  "contentPages" : [
+  "Welcome back everyone, your favourite angler Emi here again with another addition of ^#b9c932;The Hunter's Guide to Fishing^white;, the only zine with all the juicy tips you need to fish like a floran!
+
+So by now we all know location is super important for fishing, right? Most fish worth catching hang out on big ocean planets of all sorts, and even then vary based on how deep your line is and what time of day they like coming out and all that.", 
+
+"But did you know fish even live in some real wacky places, like horribly polluted seas of poisonous industrial goo, and even flaming lava worlds!
+
+Fishing in these sorts of places can be terribly dangerous though, so I'd advise all but the most seasoned of anglers to keep their distance.", 
+
+"Not to mention, most of you likely don't even have the equipment to pull it off in the first place! You'll want a real durasteel pole at least, something that can withstand extreme heat and corrosion, though getting your hands on a well made one will be pricey - quite a niche bit of kit, believe it or not :Э"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "uncommon",
+    "price" : 25
+  }
+}

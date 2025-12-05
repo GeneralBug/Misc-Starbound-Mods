@@ -1,0 +1,20 @@
+{
+  "id" : "gbug_fishingguide1",
+  "species" : "floran",
+  "title" : "^#b9c932;HGF^white;: Story Time",
+  "description" : "The only zine with all the juicy tips you need to fish like a floran!",
+  "icon" : "gbug_fishingcover3.png",
+  "contentPages" : [
+  "Welcome back everyone, your favourite angler Emi here again with another addition of ^#b9c932;The Hunter's Guide to Fishing^white;, the only zine with all the juicy tips you need to fish like a floran!
+
+I get a lot of readers mailing in asking about all sorts of things - what kind of bait do hoopfish like, how do I clean the poison off a chordopod, why does my lure keep catching fire - but a lot of you keep asking about me! So let me tell you all about your favourite angler Emi :Э",
+
+"It all started when I was a sprout, the only floran living in a little hylotl village on a distant little ocean world that shall remain nameless. It was really nice and cool and everything, but there was one key thing every growing floran needs; a good hunt! Of course my parents taught me heaps about writing and numbers and stuff, but they didn't know the first thing about hunting...",
+"...so they decided they could teach me the next best thing! It wasn't long before I became a master angler (maybe the best ever, if I do say so myself), saw the universe, then got the idea to settle down a little! What's the point of being the best if nobody else knows it, right? So I started my little break to write all these, and here we are today :Э"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "uncommon",
+    "price" : 25
+  }
+}

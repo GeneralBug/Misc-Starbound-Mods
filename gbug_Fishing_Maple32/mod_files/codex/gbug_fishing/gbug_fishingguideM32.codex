@@ -1,0 +1,22 @@
+{
+  "id" : "gbug_fishingguideM32",
+  "species" : "floran",
+  "title" : "^#b9c932;HGF^white;: Cave Fishing",
+  "description" : "The only zine with all the juicy tips you need to fish like a floran!",
+  "icon" : "gbug_fishingcover3.png",
+  "contentPages" : [
+  "Welcome back everyone, your favourite angler Emi here again with another addition of  ^#b9c932;The Hunter's Guide to Fishing^white;, the only zine with all the juicy tips you need to fish like a floran!
+
+I've fished in some pretty interesting places, but one of my favourites was quite different to the rest; a giant lake in humongous cavern, deep under a stinky old industrial planet!", 
+
+"I met a nuu down there who explained to me that this big aquifer is pumped up for some fancy factory stuff near the surface or something, I don't really remember, BUT he had some interesting fishing tales!
+
+People around there live along the roof of the cavern, and cast down with extra-long lines into the darkness. They showed me these cool rods they use made of some fancy mushrooms and something called 'vivatin'.",  
+
+"Caves like these are common on a number of different planets supposedly, and while the fish themselves weren't too out of the ordinary, it's definitely a sight worth seeing! Watch out for the batongs though :Э"
+  ],
+    "itemConfig" : {
+    "rarity" : "uncommon",
+    "price" : 25
+  }
+}

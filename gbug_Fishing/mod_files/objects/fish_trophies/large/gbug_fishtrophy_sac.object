@@ -1,0 +1,48 @@
+{
+  "objectName" : "gbug_fishtrophy_sac",
+  "colonyTags" : ["fish","fishing","toxic"],
+  "rarity" : "Rare",
+  "description" : "'Its stomach is constantly overflowing with venomous liquids. It can barely hold on to it.'",
+  "shortdescription" : "Brown Chordopod Trophy",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 2000,
+  "printable" : false,
+  
+  "inventoryIcon" : "largeicon.png",
+  "orientations" : [
+    {
+      "image" : "gbug_fishtrophy_sac.png:<color>.<frame>",
+
+      "imagePosition" : [-20, -16],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "gbug_fishtrophy_sac.png:<color>.<frame>",
+
+      "imagePosition" : [-20, -16],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "gbug_fishtrophy_sac.png"
+  },
+  "animationPosition" : [-20, -16],
+  "scripts" : [ "/objects/fish_trophies/fish_trophy.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : true,
+
+  "inputNodes" : [ [0, 0] ]
+}

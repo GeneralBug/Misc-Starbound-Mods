@@ -1,0 +1,13 @@
+{
+    "gbug_fishingguide" : [
+        [0, {
+        "pool" : [
+            {"weight" : 0.2, "item" : "gbug_fishingguide1-codex"},
+            {"weight" : 0.2, "item" : "gbug_fishingguide3-codex"},
+            {"weight" : 0.2, "item" : "gbug_fishingguide2-codex"},
+            {"weight" : 0.2, "item" : "gbug_fishingguide4-codex"},
+            {"weight" : 0.2, "item" : "gbug_fishingguide5-codex"}
+        ]
+        }]
+    ]
+}

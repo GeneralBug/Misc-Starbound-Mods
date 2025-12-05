@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "gbug_fishdubloon", "count" : 30 },
+    { "item" : "gbug_fishitem_leech", "count" : 1}
+  ],
+  "output" : { "item" : "gbug_fishtrophy_leech", "count" : 1 },
+  "groups" : [ "gbug_fishingstore", "trophies" ]
+}

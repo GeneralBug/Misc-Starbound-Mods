@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/gbug_fishingguide/0/1/pool/-",
+    "value": {
+      "weight": 0.2,
+      "item": "gbug_fishingguideM32-codex"
+    }
+  }
+]

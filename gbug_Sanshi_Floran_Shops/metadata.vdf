@@ -1,0 +1,13 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Sanshi_Floran_Shops/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Sanshi_Floran_Shops/preview.png"
+	"visibility"		"0"
+	"title"		"Alternative Floran Head Object Patch"
+	"description"		"Retextures various objects to match [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576645693&searchtext=floran]Alternative Floran Head[/url] by Sanshi. Currently includes:
+ - Terramart!
+ - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2737514021&searchtext=terratabs]Terratabs[/url]! (both versions of the floran shopkeeper and interface icons)
+ - Vanilla and Many Tabs codex tab icons (also new character creation icons because I didn't realise the original had them because another mod ([url=https://steamcommunity.com/sharedfiles/filedetails/?id=3546647977]OpenUI[/url]) was overriding them but I already made them so now you're getting them anyway)"
+	"publishedfileid"		"3615863307"
+}
