@@ -1,0 +1,7 @@
+[
+    {
+        "op" : "replace",
+        "path" : "description",
+        "value" : "A module combining the contents of Accelerator, Manipulator, Separator and Constructor modules into one. Handy!"
+    }
+]

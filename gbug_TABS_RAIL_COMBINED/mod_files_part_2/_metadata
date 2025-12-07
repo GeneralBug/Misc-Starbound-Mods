@@ -1,9 +1,9 @@
 {
   "author" : "GeneralBug",
   "description" : "Builds upon Hancrafting Expansion's changes to the rail crafting station to add (many) tabs! ",
-  "friendlyName" : "Many Tabs Rail Crafting Table P2",
+  "friendlyName" : "[Many Tabs] Rail Crafting Table P2",
   "name" : "ManyTabsRailCrafting2",
   "priority" : 30,
   "tags" : "Crafting and Building|User Interface",
-  "version" : "v2"
+  "version" : "2.1"
 }

@@ -1,11 +1,11 @@
 {
   "author" : "GeneralBug",
   "description" : "Adds a tab for Betabound's stuff to the inventor's tab, requires Many Tabs.",
-  "friendlyName" : "Many Tabs Betabound (Inventor's Table)",
+  "friendlyName" : "[Many Tabs] Betabound Inventor's Table Tab",
   "link" : "steam://url/CommunityFilePage/2874310747",
   "name" : "ManyTabsBetaboundInventors",
   "steamContentId" : "2874310747",
   "tags" : "Crafting and Building|User Interface",
-  "version" : "3",
+  "version" : "4.0",
   "includes" : ["XRC_BETA_STARBOUND"]
 }

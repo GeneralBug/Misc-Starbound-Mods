@@ -12,7 +12,7 @@
 		"path": "/paneLayout/categories/buttons/0/data", 
 		"value": 
 		{
-			"filter" : [ "railblock" ]
+			"filter" : [ "railblock", "sb_skyrails" ]
 		}
 	},
 	//for some reason the icon doesn't appear using the normal many tabs things, so it has to be manually added (stinky)

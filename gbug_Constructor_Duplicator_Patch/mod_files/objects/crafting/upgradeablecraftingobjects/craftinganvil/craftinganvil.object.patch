@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/3/name",
+            "value": "pf_duplicatorAddon"
+        },
+        {
+            "op": "add",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/3/addonData/interactData/filter/-",
+            "value": "craftingconstructor"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/4/name",
+            "value": "pf_duplicatorAddon"
+        },
+        {
+            "op": "add",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/4/addonData/interactData/filter/-",
+            "value": "craftingconstructor"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/5/name",
+            "value": "pf_duplicatorAddon"
+        },
+        {
+            "op": "add",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/5/addonData/interactData/filter/-",
+            "value": "craftingconstructor"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/6/name",
+            "value": "pf_duplicatorAddon"
+        },
+        {
+            "op": "add",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/6/addonData/interactData/filter/-",
+            "value": "craftingconstructor"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/7/name",
+            "value": "pf_duplicatorAddon"
+        },
+        {
+            "op": "add",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/7/addonData/interactData/filter/-",
+            "value": "craftingconstructor"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/8/name",
+            "value": "pf_duplicatorAddon"
+        },
+        {
+            "op": "add",
+            "path": "/upgradeStages/2/addonConfig/usesAddons/8/addonData/interactData/filter/-",
+            "value": "craftingconstructor"
+        }
+    ]
+]

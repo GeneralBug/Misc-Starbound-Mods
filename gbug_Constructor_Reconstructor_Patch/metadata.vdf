@@ -1,0 +1,10 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Constructor_Reconstructor_Patch/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Constructor_Reconstructor_Patch/preview.png"
+	"visibility"		"0"
+	"title"		"Reconstructor/Redemption Replicator Addon Patch"
+	"description"		"Simply adds the contrustor recipes from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1397217904]Project Redemption[/url] to the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1181699750]Reconstructor[/url], and modifies the recipe to reflect that. I haven't tested it extensively, so let me know if it breaks with the addition of other mods that add replicator addons."
+	"publishedfileid"		"3619321566"
+}

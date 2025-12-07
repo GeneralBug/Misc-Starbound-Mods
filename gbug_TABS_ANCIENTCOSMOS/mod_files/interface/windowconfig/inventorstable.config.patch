@@ -3,7 +3,7 @@
 		"op": "add",
 		"path": "/modTab/-",
 		"value": {
-			"file": "/interface/mt_crafting/gbug/tabicon_essence.png",
+			"file": "/interface/mt_crafting/gbug/tabicon_fancyessence.png",
 			"filter": ["ancientcosmosinvent"]
 		}
 	}

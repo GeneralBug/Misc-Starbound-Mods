@@ -1,0 +1,17 @@
+[
+    {
+        "op": "add",
+        "path": "/scriptConfig/conditions/-",
+        "value": {
+            "type": "gatherItem",
+            "itemName": "constructoraddon",
+            "count": 1,
+            "consume": true
+        }
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "Curious. Greetings! I couldn't help but overhear you and Esther's delve into Ancient technology. I hear you have an issue with being able to forge this ^darkmagenta;Enchanium^reset;. Have no fear! For I... have an idea. ^green;Bring me ^orange;all 4 kinds of Replicator Addons and some of that Enchanium^green;. I might be able to put something together."
+    }
+]

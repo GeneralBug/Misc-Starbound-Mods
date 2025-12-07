@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/input/3",
+    "value": {
+      "item": "constructoraddon",
+      "count": 1
+    }
+  }
+]
