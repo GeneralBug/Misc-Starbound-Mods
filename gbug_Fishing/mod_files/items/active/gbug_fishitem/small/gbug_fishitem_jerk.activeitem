@@ -3,7 +3,7 @@
   "price" : 100,
   "level" : 1,
   "rarity" : "Common",
-  "category" : "Tool",
+  "category" : "Fish",
   "tooltipKind" : "tool",
   "description" : "You want me to WHAT the fish??",
   "shortdescription" : "Jerkfish",
@@ -11,11 +11,12 @@
   "itemTags" : ["fish"],
   "inventoryIcon" : "gbug_fishitem_jerk.png:idle",
   "largeImage" : "gbug_fishitem_jerk.png:idle",
+  "learnBlueprintsOnPickup" : ["gbug_fishtrophy_jerk"],
 
-  "animation" : "/items/active/gbug_fishitem/gbug_fishitem.animation",
+  "animation" : "gbug_fishitem_small.animation",
   "animationParts" : {
     "bugnet" : "gbug_fishitem_jerk.png",
-    "swoosh" : "/items/active/unsorted/bugnet/swoosh.png"
+    "swoosh" : "gbug_fishitem_swoosh_small.png"
   },
 
   "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
@@ -26,19 +27,20 @@
     "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
     "class" : "MeleeSlash",
 
-    "fireTime" : 1.5,
+    "fireTime" : 0.3,
     "baseDps" : 0.01,
+
     "damageConfig" : {
       "damageSourceKind" : "default",
       "statusEffects" : [ ],
-      "knockback" : 0,
+      "knockback" : 10,
       "knockbackMode" : "facing",
       "timeoutGroup" : "primary"
     },
     "stances" : {
       "idle" : {
         "armRotation" : 5,
-        "weaponRotation" : -90,
+        "weaponRotation" : -95,
         "allowRotate" : false,
         "allowFlip" : true
       },
@@ -46,7 +48,6 @@
         "duration" : 0.3,
         "armRotation" : 60,
         "weaponRotation" : 10,
-        "twoHanded" : true,
 
         "allowRotate" : false,
         "allowFlip" : true,
@@ -58,8 +59,7 @@
       "fire" : {
         "duration" : 0.4,
         "armRotation" : -45,
-        "weaponRotation" : -55,
-        "twoHanded" : true,
+        "weaponRotation" : -65,
 
         "allowRotate" : false,
         "allowFlip" : false,

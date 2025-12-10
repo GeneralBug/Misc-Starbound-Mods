@@ -1,0 +1,17 @@
+{
+  "itemName" : "fishinglurebasic",
+  "price" : 200,
+  "rarity" : "Common",
+  "tooltipKind" : "fishingupgrade",
+  "category" : "fishingLure",
+  "inventoryIcon" : "lurebasic.png",
+  "description" : "A basic but effective lure.",
+  "shortdescription" : "Basic Lure",
+
+  "lureType" : "basic",
+  "lureName" : "Basic Lure",
+  "lureIcon" : "/items/augments/fishing/lurebasic.png",
+  "lureProjectile" : "fishinglure",
+
+  "scripts" : [ "/scripts/augments/fishing.lua" ]
+}

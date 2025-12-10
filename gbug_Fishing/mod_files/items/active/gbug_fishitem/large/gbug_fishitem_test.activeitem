@@ -1,0 +1,72 @@
+{
+  "itemName" : "gbug_fishitem_test",
+  "price" : 20000,
+  "level" : 1,
+  "rarity" : "Essential",
+  "category" : "Fish",
+  "tooltipKind" : "tool",
+  "description" : "Something something bacon midnight.",
+  "shortdescription" : "Variegated tester",
+  "twoHanded" : true,
+  "itemTags" : ["fish"],
+  "inventoryIcon" : "gbug_fishitem_test.png:idle",
+  "largeImage" : "gbug_fishitem_test.png:idle",
+
+  "animation" : "gbug_fishitem_large.animation",
+  "animationParts" : {
+    "bugnet" : "gbug_fishitem_test.png",
+    "swoosh" : "gbug_fishitem_swoosh_large.png"
+  },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
+    "class" : "MeleeSlash",
+
+    "fireTime" : 0.4,
+    "baseDps" : 10,
+
+    "damageConfig" : {
+      "damageSourceKind" : "default",
+      "statusEffects" : [ ],
+      "knockback" : 30,
+      "knockbackMode" : "facing",
+      "timeoutGroup" : "primary"
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 10,
+        "weaponRotation" : -100,
+        "allowRotate" : false,
+        "allowFlip" : true
+      },
+      "windup" : {
+        "duration" : 0.4,
+        "armRotation" : 65,
+        "weaponRotation" : 10,
+
+        "allowRotate" : false,
+        "allowFlip" : true,
+        "twoHanded" : true,
+        "animationStates" : {
+          "net" : "hang"
+        }
+      },
+      "fire" : {
+        "duration" : 0.8,
+        "armRotation" : -40,
+        "weaponRotation" : -65,
+
+        "allowRotate" : false,
+        "allowFlip" : false,
+        "twoHanded" : true,
+        "animationStates" : {
+          "net" : "swing"
+        }
+      }
+    }
+  }
+}

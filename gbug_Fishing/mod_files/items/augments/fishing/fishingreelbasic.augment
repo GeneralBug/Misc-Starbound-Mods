@@ -1,0 +1,22 @@
+{
+  "itemName" : "fishingreelbasic",
+  "price" : 200,
+  "rarity" : "Common",
+  "tooltipKind" : "fishingupgrade",
+  "category" : "fishingReel",
+  "inventoryIcon" : "reelbasic.png",
+  "description" : "A basic but effective reel.",
+  "shortdescription" : "Basic Reel",
+
+  "reelType" : "basic",
+  "reelName" : "Basic Reel",
+  "reelIcon" : "/items/augments/fishing/reelbasic.png",
+  "reelParameters" : {
+    "reelOutLength" : 50,
+    "lineBreakMargin" : 10,
+    "reelSpeed" : 11,
+    "lineBreakTime" : 0.7
+  },
+
+  "scripts" : [ "/scripts/augments/fishing.lua" ]
+}

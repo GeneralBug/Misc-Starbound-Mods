@@ -1,0 +1,73 @@
+{
+  "itemName" : "gbug_fishitem_shell",
+  "price" : 700,
+  "level" : 1,
+  "rarity" : "Uncommon",
+  "category" : "Fish",
+  "tooltipKind" : "tool",
+  "description" : "Try poking your friends with this guy as a fun party trick!",
+  "shortdescription" : "Mortilus",
+  "twoHanded" : false,
+  "itemTags" : ["fish"],
+  "inventoryIcon" : "gbug_fishitem_shell.png:idle",
+  "largeImage" : "gbug_fishitem_shell.png:idle",
+  "learnBlueprintsOnPickup" : ["gbug_fishtrophy_shell"],
+
+  "animation" : "gbug_fishitem_medium.animation",
+  "animationParts" : {
+    "bugnet" : "gbug_fishitem_shell.png",
+    "swoosh" : "gbug_fishitem_swoosh_medium.png"
+  },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
+    "class" : "MeleeSlash",
+
+    "fireTime" : 0.4,
+    "baseDps" : 1,
+
+    "damageConfig" : {
+      "damageSourceKind" : "default",
+      "statusEffects" : [ ],
+      "knockback" : 15,
+      "knockbackMode" : "facing",
+      "timeoutGroup" : "primary"
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 10,
+        "weaponRotation" : -100,
+        "allowRotate" : false,
+        "allowFlip" : true
+      },
+      "windup" : {
+        "duration" : 0.4,
+        "armRotation" : 65,
+        "weaponRotation" : 10,
+
+        "allowRotate" : false,
+        "allowFlip" : true,
+
+        "animationStates" : {
+          "net" : "hang"
+        }
+      },
+      "fire" : {
+        "duration" : 0.5,
+        "armRotation" : -40,
+        "weaponRotation" : -65,
+
+        "allowRotate" : false,
+        "allowFlip" : false,
+
+        "animationStates" : {
+          "net" : "swing"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "net" : {
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+
+          },
+          "hang" : {
+            "frames" : 2,
+            "cycle" : 0.2,
+            "mode" : "end"
+          },
+          "swing" : {
+            "frames" : 2,
+            "cycle" : 0.25,
+            "mode" : "transition",
+            "transition" : "idle"
+          }
+        }
+      },
+      "swoosh" : {
+        "default" : "idle",
+        "states" : {
+          "idle" : {},
+          "fire" : {
+            "frames" : 3,
+            "cycle" : 0.15,
+            "mode" : "transition",
+            "transition" : "idle"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "bugnet" : {
+        "properties" : {
+          "zLevel" : 0,
+          "centered" : true,
+          "offset" : [1, 0],
+          "transformationGroups" : ["weapon"],
+          "flipImages" : true
+        },
+
+        "partStates" : {
+          "net" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle"
+              }
+            },
+            "hang" : {
+              "properties" : {
+                "image" : "<partImage>:hang.<frame>",
+                "flipImages" : true
+              }
+            },
+            "swing" : {
+              "properties" : {
+                "image" : "<partImage>:swing.<frame>",
+                "flipImages" : true
+              }
+            }
+          }
+        }
+      },
+
+      "swoosh" : {
+        "properties" : {
+          "zLevel" : -1,
+          "centered" : true,
+          "offset" : [0.5, 0],
+          "transformationGroups" : ["swoosh"],
+          "rotationCenter" : [0, 0]
+        },
+
+        "partStates" : {
+          "swoosh" : {
+            "idle" : {
+              "properties" : {
+                "image" : ""
+              }
+            },
+            "fire" : {
+              "properties" : {
+                "image" : "<partImage>:<frame>",
+                "damageArea" : [[-0.5, 3.75], [1.3, 3], [2.3, 2], [2.9, 0], [2.3, -2], [1.3, -3], [-0.5, -3.25]]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "weapon" : {},
+    "swoosh" : {}
+  },
+
+  "particleEmitters" : {
+    "physicalswoosh" : {
+      "particles" : []
+    }
+  },
+
+  "sounds" : {
+    "fire" : ["/sfx/cinematics/fish_laugh.ogg"]
+  }
+}

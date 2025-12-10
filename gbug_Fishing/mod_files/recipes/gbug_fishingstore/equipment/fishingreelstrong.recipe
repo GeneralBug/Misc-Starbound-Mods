@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "gbug_fishdubloon", "count" : 50 }
+    { "item" : "gbug_fishdubloon", "count" : 40 },
+    { "item" : "fishingreelbasic", "count" : 1},
+    { "item" : "syntheticmaterial", "count" : 10}
   ],
   "output" : { "item" : "fishingreelstrong", "count" : 1 },
   "groups" : [ "gbug_fishingstore", "equipment" ]

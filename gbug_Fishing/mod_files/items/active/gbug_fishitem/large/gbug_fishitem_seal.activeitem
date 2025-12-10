@@ -1,0 +1,72 @@
+{
+  "itemName" : "gbug_fishitem_seal",
+  "price" : 1200,
+  "level" : 1,
+  "rarity" : "Uncommon",
+  "category" : "Fish",
+  "tooltipKind" : "tool",
+  "description" : "'I'm mad at you right now. So go away.'",
+  "shortdescription" : "Sealacanth",
+  "twoHanded" : true,
+  "itemTags" : ["fish"],
+  "inventoryIcon" : "gbug_fishitem_seal.png:idle",
+  "largeImage" : "gbug_fishitem_seal.png:idle",
+  "learnBlueprintsOnPickup" : ["gbug_fishtrophy_seal"],
+  "animation" : "gbug_fishitem_large.animation",
+  "animationParts" : {
+    "bugnet" : "gbug_fishitem_seal.png",
+    "swoosh" : "gbug_fishitem_swoosh_large.png"
+  },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
+    "class" : "MeleeSlash",
+
+    "fireTime" : 0.4,
+    "baseDps" : 10,
+
+    "damageConfig" : {
+      "damageSourceKind" : "default",
+      "statusEffects" : [ ],
+      "knockback" : 30,
+      "knockbackMode" : "facing",
+      "timeoutGroup" : "primary"
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 10,
+        "weaponRotation" : -100,
+        "allowRotate" : false,
+        "allowFlip" : true
+      },
+      "windup" : {
+        "duration" : 0.4,
+        "armRotation" : 65,
+        "weaponRotation" : 10,
+
+        "allowRotate" : false,
+        "allowFlip" : true,
+        "twoHanded" : true,
+        "animationStates" : {
+          "net" : "hang"
+        }
+      },
+      "fire" : {
+        "duration" : 0.8,
+        "armRotation" : -40,
+        "weaponRotation" : -65,
+
+        "allowRotate" : false,
+        "allowFlip" : false,
+        "twoHanded" : true,
+        "animationStates" : {
+          "net" : "swing"
+        }
+      }
+    }
+  }
+}

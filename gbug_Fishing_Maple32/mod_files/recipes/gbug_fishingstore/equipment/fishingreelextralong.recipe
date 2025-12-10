@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "gbug_fishdubloon", "count" : 10 },
-    { "item" : "fishingreellong", "count" : 1 },
-    { "item" : "compositewire", "count" : 5}
+    { "item" : "gbug_fishdubloon", "count" : 40 },
+    { "item" : "fishingreelbasic", "count" : 1 },
+    { "item" : "compositewire", "count" : 10}
   ],
   "output" : { "item" : "fishingreelextralong", "count" : 1 },
   "groups" : [ "gbug_fishingstore", "equipment" ]

@@ -1,0 +1,73 @@
+{
+  "itemName" : "gbug_fishitem_saber",
+  "price" : 100,
+  "level" : 1,
+  "rarity" : "Common",
+  "category" : "Fish",
+  "tooltipKind" : "tool",
+  "description" : "Note, 'can be trained' doesn't mean 'is easy or practical to train'.",
+  "shortdescription" : "Blue Sabertrout",
+  "twoHanded" : false,
+  "itemTags" : ["fish"],
+  "inventoryIcon" : "gbug_fishitem_saber.png:idle",
+  "largeImage" : "gbug_fishitem_saber.png:idle",
+  "learnBlueprintsOnPickup" : ["gbug_fishtrophy_saber"],
+
+  "animation" : "gbug_fishitem_small.animation",
+  "animationParts" : {
+    "bugnet" : "gbug_fishitem_saber.png",
+    "swoosh" : "gbug_fishitem_swoosh_small.png"
+  },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
+    "class" : "MeleeSlash",
+
+    "fireTime" : 0.3,
+    "baseDps" : 0.01,
+
+    "damageConfig" : {
+      "damageSourceKind" : "default",
+      "statusEffects" : [ ],
+      "knockback" : 10,
+      "knockbackMode" : "facing",
+      "timeoutGroup" : "primary"
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 5,
+        "weaponRotation" : -95,
+        "allowRotate" : false,
+        "allowFlip" : true
+      },
+      "windup" : {
+        "duration" : 0.3,
+        "armRotation" : 60,
+        "weaponRotation" : 10,
+
+        "allowRotate" : false,
+        "allowFlip" : true,
+
+        "animationStates" : {
+          "net" : "hang"
+        }
+      },
+      "fire" : {
+        "duration" : 0.4,
+        "armRotation" : -45,
+        "weaponRotation" : -65,
+
+        "allowRotate" : false,
+        "allowFlip" : false,
+
+        "animationStates" : {
+          "net" : "swing"
+        }
+      }
+    }
+  }
+}
