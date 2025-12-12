@@ -1,0 +1,9 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Recreates Betabound's handcrafting tabs with Many Tabs",
+  "friendlyName" : "Betabound - Handcrafting Expansion Patch Part 1",
+  "link" : "steam://url/CommunityFilePage/2808806800",
+  "name" : "gbug_BBHandcrafting_p1",
+  "includes" : ["Anter583_MT_Handcrafting-addon_A"],
+  "version" : "4.0"
+}

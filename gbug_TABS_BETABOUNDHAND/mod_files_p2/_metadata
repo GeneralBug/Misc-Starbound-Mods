@@ -1,0 +1,9 @@
+{
+  "author" : "GeneralBug",
+  "description" : "Recreates Betabound's handcrafting tabs with Many Tabs",
+  "friendlyName" : "Betabound - Handcrafting Expansion Patch Part 2",
+  "link" : "steam://url/CommunityFilePage/2808806800",
+  "name" : "gbug_BBHandcrafting_p2",
+  "priority" : 30,
+  "version" : "4.0"
+}

@@ -1,0 +1,11 @@
+[
+    {
+        "op": "test",
+        "path": "/groups/3",
+        "value": "all"
+    },
+    {
+        "op": "remove",
+        "path": "/groups/3"
+    }
+]

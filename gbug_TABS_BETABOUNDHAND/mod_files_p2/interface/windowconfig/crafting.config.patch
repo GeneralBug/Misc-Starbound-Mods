@@ -1,0 +1,37 @@
+[
+	//MATERIAL
+	{ 
+		"op": "replace", 
+		"path": "/paneLayout/lblOverflowTab/file", 
+		"value": "/interface/mt_crafting/gbug/tabicon_BB_materials.png"
+	},
+	{ 
+		"op": "replace", 
+		"path": "/paneLayout/categories/buttons/0/data/filter", 
+		"value": ["materials"]
+	},
+	//ARMOUR
+	{ 
+		"op": "replace", 
+		"path": "/paneLayout/lblStarboundTab/file", 
+		"value": "/interface/mt_crafting/gbug/tabicon_BB_armours.png"
+
+	},
+	{ 
+		"op": "replace", 
+		"path": "/paneLayout/categories/buttons/1/data/filter", 
+		"value": ["armours"]
+		
+	},
+	//WEAPONS
+	{ 
+		"op": "replace", 
+		"path": "/paneLayout/lblVanillaTab/file", 
+		"value": "/interface/mt_crafting/gbug/tabicon_BB_weapons.png"
+	},
+	{ 
+		"op": "replace", 
+		"path": "/paneLayout/categories/buttons/2/data/filter", 
+		"value": ["weapons"]
+	}
+]

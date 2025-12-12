@@ -1,0 +1,42 @@
+[
+	//CONSUMABLES
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": 
+		{
+			"file": "/interface/mt_crafting/gbug/tabicon_BB_consumables.png",
+			"filter": ["consumables", "healing"]
+		}
+	},
+	//TOOLS
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": 
+		{
+			"file": "/interface/mt_crafting/gbug/tabicon_BB_tools.png",
+			"filter": ["tools", "mining", "craftingstations"]
+		}
+	},
+	//OBJECTS
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": 
+		{
+			"file": "/interface/mt_crafting/gbug/tabicon_BB_objects.png",
+			"filter": ["objects", "decoration"]
+		}
+	},
+	//OTHER
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": 
+		{
+			"file": "/interface/mt_crafting/gbug/tabicon_BB_other.png",
+			"filter": ["sb_other", "other", "all"]
+		}
+	}
+]

@@ -1,0 +1,14 @@
+"workshopitem" {
+  "appid" "211820"
+  "publishedfileid" "2808806800"
+  "contentfolder" "/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_BETABOUNDHAND/contents"
+  "previewfile" "/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_BETABOUNDHAND/preview.png"
+  "visibility" "0"
+  "title" "Betabound - Handcrafting Expansion Patch"
+  "description" "Reimplements Betabound's handcrafting tabs using Many Tabs/Handcrafting Expansion. I did this by overriding the three static tabs added, so there is no longer a vanilla and overflow tab, though all the vanilla stuff is distributed by Betabound and the overflow can be accessed by "unselecting" a tab, so it seemed fine.
+  
+  Compatibility:
+   - COMPATIBLE with all normal handcrafting tab additions (which is the entire point), however I haven't tested it extensively so please report anything that breaks
+   - INCOMPATIBLE with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2780692766]Handcrafting Expansion Adjustments[/url], which is unnessary given this overrides all the stuff that it changes anyway
+   - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2891410012]Vanilla Crafting Menu (Betabound)[/url] doesn't break anything, but it's redundant as Handcrafting Expansion already overrides the menu with itself; use this if you want neither Betabound's interface nor Handcrafting Expansion's"
+}
