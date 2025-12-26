@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/input/0/item",
+        "value": "gbug_fishdubloon"
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/count",
+        "value": 5
+    },
+    {
+        "op": "remove",
+        "path": "/input/1"
+    },
+    {
+        "op": "add",
+        "path": "/groups/-",
+        "value": "gbug_fishingstore"
+    },
+    {
+        "op": "add",
+        "path": "/groups/-",
+        "value": "equipment"
+    }
+]

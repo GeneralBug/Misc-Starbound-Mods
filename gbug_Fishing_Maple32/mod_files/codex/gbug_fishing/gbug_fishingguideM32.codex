@@ -15,8 +15,10 @@ People around there live along the roof of the cavern, and cast down with extra-
 
 "Caves like these are common on a number of different planets supposedly, and while the fish themselves weren't too out of the ordinary, it's definitely a sight worth seeing! Watch out for the batongs though :Э"
   ],
-    "itemConfig" : {
+  "itemConfig" : 
+  {
     "rarity" : "uncommon",
-    "price" : 25
+    "price" : 25,
+    "learnBlueprintsOnPickup" : ["gbug_fishingguideM32-codex"]
   }
 }

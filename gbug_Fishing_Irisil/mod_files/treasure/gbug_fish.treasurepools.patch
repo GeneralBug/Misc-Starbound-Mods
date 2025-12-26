@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/gbug_fishingpeepgill",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_peepgill"},
+            {"pool": "fishingcommon"}
+          ]
+    }]]
+  }
+]

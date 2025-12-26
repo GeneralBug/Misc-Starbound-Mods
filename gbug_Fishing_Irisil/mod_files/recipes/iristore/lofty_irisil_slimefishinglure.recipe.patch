@@ -1,0 +1,36 @@
+[
+    {
+        "op": "replace",
+        "path": "/input/0/item",
+        "value": "gbug_fishdubloon"
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/count",
+        "value": 40
+    },
+    {
+        "op": "replace",
+        "path": "/input/1/item",
+        "value": "fishinglurebasic"
+    },
+    {
+        "op": "add",
+        "path": "/input/-",
+        "value": 
+        {
+            "item": "lofty_irisileye",
+            "count": 1
+        }
+    },
+    {
+        "op": "add",
+        "path": "/groups/-",
+        "value": "gbug_fishingstore"
+    },
+    {
+        "op": "add",
+        "path": "/groups/-",
+        "value": "equipment"
+    }
+]

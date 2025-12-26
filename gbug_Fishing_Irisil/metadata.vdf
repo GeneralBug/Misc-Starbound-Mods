@@ -1,0 +1,17 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Fishing_Irisil/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Fishing_Irisil/preview.png"
+	"visibility"		"0"
+	"title"		"Emi's Fabulous Fishatorium: Project Irisil Patch"
+	"description"		"Fishing!
+	
+[h2]OVERVIEW:[/h2][list]
+[*]Adds all the new trophies and stuff for the Peepgill!
+[*]Makes the slime lure and tacklebox available at Emi's store (assuming you've unlocked it (the recipe is taught by finding it))
+[*]Also modified their recipes to match the other ones.
+[*]That's it!
+[/list]"
+	"publishedfileid"		"3631718556"
+}

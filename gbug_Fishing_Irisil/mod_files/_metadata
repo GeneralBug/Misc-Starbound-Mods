@@ -1,0 +1,7 @@
+{
+  "version" : "1.0",
+  "author" : "GeneralBug",
+  "name" : "gbug_Fishing_Irisil",
+  "friendlyName" : "Emi's Fabulous Fishatorium: Project Irisil Patch",
+  "includes" : ["gbug_Fishing", "lofty_irisil"]
+}
