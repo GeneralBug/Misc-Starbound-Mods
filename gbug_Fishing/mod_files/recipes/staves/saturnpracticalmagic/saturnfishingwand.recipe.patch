@@ -1,0 +1,22 @@
+[
+  {
+    "op": "test",
+    "path": "/output",
+    "value": { "item" : "saturnfishingwand", "count" : 1 }
+  },
+  {
+    "op": "replace",
+    "path": "/input",
+    "value": [{ "item" : "gbug_fishdubloon", "count" : 200 }]
+  },
+  {
+    "op": "replace",
+    "path": "/groups/1",
+    "value": "gbug_fishingstore"
+  },
+  {
+    "op": "replace",
+    "path": "/groups/2",
+    "value": "equipment"
+  }
+]

@@ -2,9 +2,9 @@
   "objectName" : "gbug_fishingstore",
   "colonyTags" : ["fish", "fishing", "commerce"],
   "rarity" : "Uncommon",
-  "category" : "other",
-  "description" : "Exchange your jelly dubloons for some cool stuff!",
-  "shortdescription" : "Fishing Store",
+  "category" : "shop",
+  "description" : "For all your aquatic hunting needs!",
+  "shortdescription" : "Emi's Fabulous Fishatorium",
   "race" : "generic",
   "printable" : false,
 
@@ -23,18 +23,30 @@
   "hylotlDescription" : "This assistant appears to offer supplies.",
   "novakidDescription" : "This lady seems mighty helpful!",
 
-  "inventoryIcon" : "icon.png",
+  "inventoryIcon" : "icon_v5.png",
   "orientations" : [
     {
       "leftImage" : "gbug_fishingstore.png:<color>.<frame>",
       "rightImage" : "gbug_fishingstore_r.png:<color>.<frame>",
-      "imagePosition" : [-24, -24],
+      "imagePosition" : [-24, 0],
       "frames" : 18,
       "animationCycle" : 1.8,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ],
-      "collision" : "platform"
+      "anchors" : [ "bottom" ]
     }
-  ]
+  ],
+
+  "scripts" : [ "/objects/outpost/repairo/repairo.lua" ],
+  "chatRadius" : 8,
+  "chatCooldown" : 99,
+  "chatOptions" : [
+    "Angler? I hardly know 'er!",
+    "Catch anything good?",
+    "I've got all the gear you could ever need!",
+    "Have you read my zine? There's some good tips in there, if I do say so myself.",
+    "Any luck?",
+    "Are they biting today?"
+  ],
+  "mouthPosition" : [0.75, -1.75]
 }

@@ -11,5 +11,32 @@
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
-  "mask" : "mask.png"
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    // CLEAR
+    { "ffca8a" : "edfeff00", "e0975c" : "edfeff2e", "a85636" : "f4ffff36", "6f2919" : "ffffff9a" },
+    // BLACK
+    { "ffca8a" : "3333334d", "e0975c" : "6a6f6f6d", "a85636" : "73767673", "6f2919" : "525252b8" },
+    // GREY
+    { "ffca8a" : "9999994d", "e0975c" : "b4b7b76d", "a85636" : "b9bbbb73", "6f2919" : "979797b8" },
+    // WHITE
+    { "ffca8a" : "ffffff4d", "e0975c" : "faffff6d", "a85636" : "fbffff73", "6f2919" : "ffffffb8" },
+    // RED
+    { "ffca8a" : "ff00004d", "e0975c" : "fa4b4b6d", "a85636" : "fb545473", "6f2919" : "a73c3cb8" },
+    // ORANGE
+    { "ffca8a" : "ff7e004d", "e0975c" : "faa44b6d", "a85636" : "fb855473", "6f2919" : "a7713cb8" },
+    // YELLOW
+    { "ffca8a" : "fff5004d", "e0975c" : "faf84b6d", "a85636" : "fbf85473", "6f2919" : "a7a33cb8" },
+    // GREEN
+    { "ffca8a" : "00ff2a4d", "e0975c" : "46ff696d", "a85636" : "50ff7073", "6f2919" : "3ca74eb8" },
+    // BLUE
+    { "ffca8a" : "0062ff4d", "e0975c" : "4690ff6d", "a85636" : "5096ff73", "6f2919" : "3c65a7b8" },
+    // PURPLE
+    { "ffca8a" : "6a22844d", "e0975c" : "a451c46d", "a85636" : "a451c473", "6f2919" : "6a2284b8" },
+    // PINK
+    { "ffca8a" : "ff00fb4d", "e0975c" : "fa4bfc6d", "a85636" : "fb54fc73", "6f2919" : "a73ca6b8" },
+    // BROWN
+    { "ffca8a" : "9e825a4d", "e0975c" : "b292666d", "a85636" : "b5956873", "6f2919" : "796243b8" }
+  ]
 }

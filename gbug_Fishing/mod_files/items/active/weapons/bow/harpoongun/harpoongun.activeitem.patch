@@ -1,0 +1,26 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/level",
+            "value": "1"
+        },
+        {
+            "op": "replace",
+            "path": "/level",
+            "value": "3"
+        }
+    ],
+        [
+        {
+            "op": "test",
+            "path": "/rarity",
+            "value": "Common"
+        },
+        {
+            "op": "replace",
+            "path": "/rarity",
+            "value": "Uncommon"
+        }
+    ]
+]

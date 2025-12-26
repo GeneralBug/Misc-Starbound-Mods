@@ -2,6 +2,5 @@
   "version" : "1.0",
   "author" : "GeneralBug",
   "name" : "gbug_Fishing",
-  "friendlyName" : "Fishing Mod",
-  "includes" : ["StarburstRework"]
+  "friendlyName" : "Emi's Fabulous Fishatorium!"
 }

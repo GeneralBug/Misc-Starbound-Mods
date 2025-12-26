@@ -1,4 +1,11 @@
 [
 	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"fishinglurebasic"}},
-	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"fishingreelbasic"}}
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"fishingreelbasic"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"gbug_cannedmudchomp"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"gbug_rewardbag_fishingPrize"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"gbug_rewardbag_fishingGrandPrize"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"harpoongun", "count":1, "parameters": {"level":3, "sb_crafted":true}}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"gbug_fishingstore"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"gbug_fishexchange"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"gbug_fishingguide2-codex"}}
 ]

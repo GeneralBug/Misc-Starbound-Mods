@@ -18,8 +18,10 @@ That's where the Digital Fish Exchange comes in; get yourself a nice little term
 An extra tip; the Fish Exchange will accept all fish, both whole and already filleted :Э"
 
   ],
-    "itemConfig" : {
+  "itemConfig" : 
+  {
     "rarity" : "uncommon",
-    "price" : 25
+    "price" : 25,
+    "learnBlueprintsOnPickup" : ["gbug_fishingguide3-codex"]
   }
 }

@@ -13,8 +13,10 @@ I get a lot of readers mailing in asking about all sorts of things - what kind o
 "...so they decided they could teach me the next best thing! It wasn't long before I became a master angler (maybe the best ever, if I do say so myself), saw the universe, then got the idea to settle down a little! What's the point of being the best if nobody else knows it, right? So I started my little break to write all these, and here we are today :Э"
 
   ],
-    "itemConfig" : {
+  "itemConfig" :
+  {
     "rarity" : "uncommon",
-    "price" : 25
+    "price" : 25,
+    "learnBlueprintsOnPickup" : ["gbug_fishingguide1-codex"]
   }
 }

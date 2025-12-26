@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "colonydeed", "count" : 1 },
+    { "item" : "rawfish", "count" : 1 },
+    { "item" : "money", "count" : 1000}
+  ],
+  "output" : { "item" : "gbug_fishingstore", "count" : 1 },
+  "groups" : [ "inventorstable2", "craftingstations", "spawnerstation", "sb_merchants", "mod", "all" ]
+}

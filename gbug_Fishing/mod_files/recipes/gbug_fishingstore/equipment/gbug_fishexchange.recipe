@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1000 },
+    { "item" : "teleportercore", "count" : 1 }
+  ],
+  "output" : { "item" : "gbug_fishexchange", "count" : 1 },
+  "groups" : [ "gbug_fishingstore", "equipment" ]
+}

@@ -1,87 +1,109 @@
 [
-    {
-        "op": "add",
-        "path": "/fishingPrize/0/1/fill",
-        "value": 
-        [
-            {"item": ["gbug_fishdubloon", 5]}
-        ]
-    },
-    {
-        "op": "add",
-        "path": "/fishingPrize/0/1/poolRounds",
-        "value": 
-        [
-            [0.5, 1],
-            [0.5, 2]
-        ]
-    },
-    {
-        "op": "add",
-        "path": "/fishingPrize/0/1/allowDuplication",
-        "value": true
-    },
-    {
-        "op": "add",
-        "path": "/fishingGrandPrize/0/1/allowDuplication",
-        "value": true
-    },
-    {
-        "op": "replace",
-        "path": "/fishingPrize/0/1/pool/0",
-        "value": {"weight": 0.15, "item": "dubloon"}
-    },
-    {
-        "op": "replace",
-        "path": "/fishingPrize/0/1/pool/1",
-        "value": {"weight": 0.15, "item": ["gbug_fishdubloon", 10]}
-    },
-    {
-        "op": "add",
-        "path": "/fishingPrize/0/1/pool/-",
-        "value": {"weight": 0.5, "item": "rawfish"}
-    },
-    {
-        "op": "add",
-        "path": "/fishingGrandPrize/0/1/fill",
-        "value": 
-        [
-            {"pool": "fishingPrize"}
-        ]
-    },
-    {
-        "op": "replace",
-        "path": "/fishingGrandPrize/0/1/pool/0",
-        "value": {"weight": 0.15, "item": "upgrademodule"}
-    },
-    {
-        "op": "add",
-        "path": "/fishingGrandPrize/0/1/pool/-",
-        "value": {"weight": 0.2, "item": ["gbug_fishdubloon", 40]}
-    },
-    {
-        "op": "replace",
-        "path": "/fishingcommon/0/1/pool",
-        "value": [{"weight": 0.0001, "item": "rawfish"}]
-    },
-    {
-        "op": "replace",
-        "path": "/fishinguncommon/0/1/pool",
-        "value": [{"weight": 0.0001, "item": "rawfish"}]
-    },
-    {
-        "op": "replace",
-        "path": "/fishingrare/0/1/pool/0",
-        "value": {"weight": 0.1, "item": "gbug_rewardbag_fishingPrize"}
-    },
-    {
-        "op": "replace",
-        "path": "/fishinglegendary/0/1/fill",
-        "value": [{"item" : "rawfish"}]
-    },
-    {
-        "op": "replace",
-        "path": "/fishinglegendary/0/1/pool/0",
-        "value": {"weight": 0.25, "item": "gbug_rewardbag_fishingGrandPrize"}
-    }
+    
+        {
+            "op": "add",
+            "path": "/fishingPrize/0/1/fill",
+            "value": 
+            [
+                {"item": ["gbug_fishdubloon", 5]}
+            ]
+        },
+        {
+            "op": "add",
+            "path": "/fishingPrize/0/1/poolRounds",
+            "value": 
+            [
+                [0.5, 1],
+                [0.5, 2]
+            ]
+        },
+        {
+            "op": "add",
+            "path": "/fishingPrize/0/1/allowDuplication",
+            "value": true
+        },
+        {
+            "op": "add",
+            "path": "/fishingGrandPrize/0/1/allowDuplication",
+            "value": true
+        },
+        {
+            "op": "replace",
+            "path": "/fishingPrize/0/1/pool/0",
+            "value": {"weight": 0.15, "item": "dubloon"}
+        },
+        {
+            "op": "replace",
+            "path": "/fishingPrize/0/1/pool/1",
+            "value": {"weight": 0.15, "item": ["gbug_fishdubloon", 10]}
+        },
+        {
+            "op": "add",
+            "path": "/fishingPrize/0/1/pool/-",
+            "value": {"weight": 0.5, "item": "rawfish"}
+        },
+        {
+            "op": "add",
+            "path": "/fishingGrandPrize/0/1/fill",
+            "value": 
+            [
+                {"pool": "fishingPrize"}
+            ]
+        },
+        {
+            "op": "replace",
+            "path": "/fishingGrandPrize/0/1/pool/0",
+            "value": {"weight": 0.15, "item": "upgrademodule"}
+        },
+        {
+            "op": "add",
+            "path": "/fishingGrandPrize/0/1/pool/-",
+            "value": {"weight": 0.2, "item": ["gbug_fishdubloon", 40]}
+        },
+        {
+            "op": "replace",
+            "path": "/fishingcommon/0/1/pool/0/weight",
+            "value": 0.01
+        },
+        {
+            "op": "add",
+            "path": "/fishingcommon/0/1/pool/-",
+            "value": {"weight": 0.001, "item": "rawfish"}
+        },
+        {
+            "op": "replace",
+            "path": "/fishinguncommon/0/1/pool/1",
+            "value": {"weight": 0.001, "item": "rawfish"}
+        },       
+        {
+            "op": "replace",
+            "path": "/fishinguncommon/0/1/pool/0/weight",
+            "value": 0.01
+        },
+        {
+            "op": "replace",
+            "path": "/fishingrare/0/1/pool/0",
+            "value": {"weight": 0.1, "item": "gbug_rewardbag_fishingPrize"}
+        },
+        {
+            "op": "replace",
+            "path": "/fishinglegendary/0/1/fill",
+            "value": [{"item" : "rawfish"}]
+        },
+        {
+            "op": "replace",
+            "path": "/fishinglegendary/0/1/pool/0",
+            "value": {"weight": 0.25, "item": "gbug_rewardbag_fishingGrandPrize"}
+        },
+        {
+            "op": "add",
+            "path": "/fishingrare/0/1/pool/-",
+            "value": {"weight": 0.25, "pool": "money"}
+        },
+        {
+            "op": "add",
+            "path": "/fishinglegendary/0/1/pool/-",
+            "value": {"weight": 0.25, "pool": "money"}
+        }
+
 ]

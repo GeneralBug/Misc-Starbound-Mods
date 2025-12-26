@@ -1,8 +1,8 @@
 {
   "itemName" : "gbug_fishitem_worm",
-  "price" : 100,
+  "price" : 1000,
   "level" : 1,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "category" : "Fish",
   "tooltipKind" : "tool",
   "description" : "What are you, the early bird?",

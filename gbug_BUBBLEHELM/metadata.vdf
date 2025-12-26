@@ -5,6 +5,12 @@
 	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_BUBBLEHELM/preview.png"
 	"visibility"		"0"
 	"title"		"Bubble Helmet"
-	"description"		"Adds a bubble helmet! Wow! You can put it on your head and stuff. Currently found in the vanilla costume loot pool or you can spawn it in with gbug_bubblehelm. Actually I'm not 100% sure it does actually spawn as I couldn't find it when testing but the odds of any given item are very slim so let me know if you find it naturally."
+	"description"		"Adds a bubble helmet! Wow! You can put it on your head and stuff. Currently found in the vanilla costume loot pool or you can spawn it in with gbug_bubblehelm.
+	
+	AND as of 1.1, it's dyable! Given that it's transparent, it likely won't work well with modded normal dyes, but you can set the alpha for each colour in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1666272764]Green's Dye Suit[/url]; the values used by the vanilla dyes are 
+	 - 184 for the dark outline (6f2919)
+	 - 109 for the lighter outline (a85636)
+	 - 115 for the shine spot (e0975c)
+	 - 77 for the interior (ffca8a)"
 	"publishedfileid"		"3592996812"
 }

@@ -7,6 +7,21 @@
     {
         "op": "add",
         "path": "/storeRandomPool/news/-",
-        "value": "gbug_fishingguide"
+        "value": "gbug_fishingguide1-codex"
+    },
+    {
+        "op": "add",
+        "path": "/storeRandomPool/news/-",
+        "value": "gbug_fishingguide3-codex"
+    },
+    {
+        "op": "add",
+        "path": "/storeRandomPool/news/-",
+        "value": "gbug_fishingguide4-codex"
+    },
+    {
+        "op": "add",
+        "path": "/storeRandomPool/news/-",
+        "value": "gbug_fishingguide5-codex"
     }
 ]

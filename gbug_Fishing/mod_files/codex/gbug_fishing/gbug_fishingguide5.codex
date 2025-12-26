@@ -14,8 +14,10 @@ Or, I suppose less like a floran this time; apparently some of you want to *not*
 "An extra tip; the Relocator can pick up all sorts of stuff, including most little fish and things that are too small to be interested in your hook; swimming down to grab some would help flesh out your tank a little more :Э"
 
   ],
-    "itemConfig" : {
+  "itemConfig" : 
+  {
     "rarity" : "uncommon",
-    "price" : 25
+    "price" : 25,
+    "learnBlueprintsOnPickup" : ["gbug_fishingguide5-codex"]
   }
 }

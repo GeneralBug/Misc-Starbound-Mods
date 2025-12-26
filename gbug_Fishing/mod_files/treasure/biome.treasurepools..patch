@@ -1,0 +1,12 @@
+[
+    {
+        "op": "add",
+        "path": "/oceanTreasure/0/1/pool/-",
+        "value": { "weight": 0.1, "pool": "gbug_fishingguide"}
+    },
+    {
+        "op": "add",
+        "path": "/toxicTreasure/0/1/pool/-",
+        "value": { "weight": 0.1, "pool": "gbug_fishingguide"}
+    }
+]

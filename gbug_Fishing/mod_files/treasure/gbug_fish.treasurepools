@@ -1,16 +1,390 @@
 {
-    // ==== VANILLA ====
     // SMALL
-    "fishingjerk" : [
+    "gbug_fishingchirp" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_chirp"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingclaw" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_claw"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingcute" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_cute"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingdart" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_dart"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingdirt" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_dirt"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingdragon" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_dragon"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingeye" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_eye"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingfrill" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_frill"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],    
+    "gbug_fishingjerk" : [
         [0, {
         "fill" : [
             {"item" : "gbug_fishitem_jerk"},
             {"pool" : "fishingcommon"}
         ]
         }]
-    ]
+    ],
+    "gbug_fishingpincer" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_pincer"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingramp" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_ramp"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingsaber" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_saber"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingspear" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_spear"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingswindle" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_swindle"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingtad" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_tad"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingwimp" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_wimp"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingworm" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_worm"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
     // MEDIUM
+    "gbug_fishingbulb" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_bulb"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingchomp" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_chomp"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingcurl" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_curl"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingeel" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_eel"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingfang" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_fang"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingfunny" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_funny"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishinggaze" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_gaze"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingglob" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_glob"},
+            {"item" : "slime"}
+        ]
+        }]
+    ],
+    "gbug_fishingjaw" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_jaw"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingleech" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_leech"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingnose" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_nose"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingredeye" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_redeye"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingshell" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_shell"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingshrimp" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_shrimp"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingspot" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_spot"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingsquare" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_square"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingstripe" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_stripe"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingtendril" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_tendril"},
+            {"pool" : "fishingcommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingtongue" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_tongue"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingwhisker" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_whisker"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
 
     // LARGE 
-
+    "gbug_fishingbreach" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_breach"},
+            {"pool" : "fishinglegendary"}
+        ]
+        }]
+    ],
+    "gbug_fishingchuckle" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_chuckle"},
+            {"pool" : "fishinglegendary"}
+        ]
+        }]
+    ],
+    "gbug_fishingdark" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_dark"},
+            {"pool" : "fishinglegendary"}
+        ]
+        }]
+    ],
+    "gbug_fishingfan" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_fan"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishinghoop" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_hoop"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingmega" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_mega"},
+            {"pool" : "fishinglegendary"}
+        ]
+        }]
+    ],
+    "gbug_fishingpuff" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_puff"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingray" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_ray"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingsac" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_sac"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ],
+    "gbug_fishingseal" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_seal"},
+            {"pool" : "fishinguncommon"}
+        ]
+        }]
+    ],
+    "gbug_fishingsunbeam" : [
+        [0, {
+        "fill" : [
+            {"item" : "gbug_fishitem_sunbeam"},
+            {"pool" : "fishingrare"}
+        ]
+        }]
+    ]
 }

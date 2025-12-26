@@ -1,0 +1,35 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Fishing/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Fishing/preview.png"
+	"visibility"		"0"
+	"title"		"Emi's Fabulous Fishatorium!"
+	"description"		"Fishing progression is stinky! Now it can be less so! Yippee!
+	
+[h2]OVERVIEW:[/h2][list]
+[*]Every fish now drops itself in item form! You could sell them or swing them around, or trade them in at...
+[*]The Digital Fish Exchange! A handy little console where you can sell your catch with the power of the internet! And teleporters! Online markets won't give you boring old pixels though, but jelly dubloons, which can be traded at...
+[*]Emi's Fabulous Fishatorium! Your one-stop-shop for all your aquatic hunting needs! You can buy fishing equipment (rather than relying on RNG), fun fish prizes, and even...
+[*]Fish trophies! With some dubloons and the fish itself, you can get yourself a wall mounted artificial replica of every fish you could want!
+[/list]
+
+[h2]MISC. DETAILS:[/h2][list]
+[*]Fish now also no longer drop valuable loot directly, but rare and legendary fish have a small chance of dropping loot in a bottle, a new reward ''bag'' that uses the vanilla fish valuable loot tables (so anything that adds to them should still be compatible, such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3491179567]Fishing Hats[/url]). These can also be purchases directly! 
+[*]Fish rarities are slightly adjusted, though mods that increase them further such as [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1726500697]Fishing Tweaks[/url] should be compatible provided they load after.
+[*]Currently missing a few item descriptions and the loot table edits haven't been extensively tested, so if there's anything weird let me know.
+[*]Also includes new codices found around various places, including [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1108897518]the Bookstore's[/url] newstand,
+[/list]
+
+[h2]COMPATIBILITY:[/h2][list]
+[*]Generally speaking, should be compatible with everything unless it makes extensive edits to fish loot tables (which this also does).
+[*][b]INCOMPATIBLE[/b] with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1353066519]Fishing Mod[/url], given the aforementioned loot table edits, but also has a general overlap in content. 
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2604255131]K'Rakoth[/url] - patch coming soon!
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2568667104]Maple32[/url] - patch coming soon!
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576645693]Alternate Floran Head[/url] - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3615863307]use this patch![/url]
+[/list]
+
+Thank you to my friends Chrome and Boober for help writing item descriptions :)
+Also let me know if there's other mods that add new fish, I might make patches for them!"
+	"publishedfileid"		"3630895951"
+}

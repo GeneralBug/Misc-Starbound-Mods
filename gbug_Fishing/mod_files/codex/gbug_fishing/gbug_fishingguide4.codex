@@ -16,8 +16,10 @@ Fishing in these sorts of places can be terribly dangerous though, so I'd advise
 "Not to mention, most of you likely don't even have the equipment to pull it off in the first place! You'll want a real durasteel pole at least, something that can withstand extreme heat and corrosion, though getting your hands on a well made one will be pricey - quite a niche bit of kit, believe it or not :Э"
 
   ],
-    "itemConfig" : {
+  "itemConfig" : 
+  {
     "rarity" : "uncommon",
-    "price" : 25
+    "price" : 25,
+    "learnBlueprintsOnPickup" : ["gbug_fishingguide4-codex"]
   }
 }
