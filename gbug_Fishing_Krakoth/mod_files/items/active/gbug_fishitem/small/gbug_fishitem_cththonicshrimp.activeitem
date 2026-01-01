@@ -1,22 +1,22 @@
 {
-  "itemName" : "gbug_fishitem_tongue",
-  "price" : 1500,
+  "itemName" : "gbug_fishitem_cththonicshrimp",
+  "price" : 100,
   "level" : 1,
-  "rarity" : "Rare",
+  "rarity" : "Common",
   "category" : "Fish",
   "tooltipKind" : "tool",
-  "description" : "The coldest of tonguiles.",
-  "shortdescription" : "Hermit Tonguile",
+  "description" : "Can fry incomprehensibly spooky rice.",
+  "shortdescription" : "Cththonic Shrimp",
   "twoHanded" : false,
   "itemTags" : ["fish"],
-  "inventoryIcon" : "gbug_fishitem_tongue.png:idle",
-  "largeImage" : "gbug_fishitem_tongue.png:idle",
-  "learnBlueprintsOnPickup" : ["gbug_fishtrophy_tongue"],
+  "inventoryIcon" : "gbug_fishitem_cththonicshrimp.png:idle",
+  "largeImage" : "gbug_fishitem_cththonicshrimp.png:idle",
+  "learnBlueprintsOnPickup" : ["gbug_fishtrophy_cththonicshrimp"],
 
-  "animation" : "gbug_fishitem_medium.animation",
+  "animation" : "gbug_fishitem_small.animation",
   "animationParts" : {
-    "bugnet" : "gbug_fishitem_tongue.png",
-    "swoosh" : "gbug_fishitem_swoosh_medium.png"
+    "bugnet" : "gbug_fishitem_cththonicshrimp.png",
+    "swoosh" : "gbug_fishitem_swoosh_small.png"
   },
 
   "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
@@ -27,26 +27,26 @@
     "scripts" : ["/items/active/weapons/melee/meleeslash.lua"],
     "class" : "MeleeSlash",
 
-    "fireTime" : 0.4,
-    "baseDps" : 1,
+    "fireTime" : 0.3,
+    "baseDps" : 0.01,
 
     "damageConfig" : {
       "damageSourceKind" : "default",
       "statusEffects" : [ ],
-      "knockback" : 15,
+      "knockback" : 10,
       "knockbackMode" : "facing",
       "timeoutGroup" : "primary"
     },
     "stances" : {
       "idle" : {
-        "armRotation" : 10,
-        "weaponRotation" : -100,
+        "armRotation" : 5,
+        "weaponRotation" : -95,
         "allowRotate" : false,
         "allowFlip" : true
       },
       "windup" : {
-        "duration" : 0.4,
-        "armRotation" : 65,
+        "duration" : 0.3,
+        "armRotation" : 60,
         "weaponRotation" : 10,
 
         "allowRotate" : false,
@@ -57,8 +57,8 @@
         }
       },
       "fire" : {
-        "duration" : 0.5,
-        "armRotation" : -40,
+        "duration" : 0.4,
+        "armRotation" : -45,
         "weaponRotation" : -65,
 
         "allowRotate" : false,

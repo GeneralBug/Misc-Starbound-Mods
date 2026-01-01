@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "gbug_fishdubloon", "count" : 10 },
-    { "item" : "fishingreelextralong", "count" : 1}
-  ],
-  "output" : { "item" : "gloomrod", "count" : 1 },
-  "groups" : [ "gbug_fishingstore", "equipment" ]
-}

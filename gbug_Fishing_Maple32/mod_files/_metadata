@@ -2,6 +2,6 @@
   "version" : "1.0",
   "author" : "GeneralBug",
   "name" : "gbug_Fishing_Maple32",
-  "friendlyName" : "Fishing Mod Maple32 Patch",
+  "friendlyName" : "Emi's Fabulous Fishatorium: Maple32 Patch",
   "includes" : ["gbug_Fishing", "Maple32"]
 }

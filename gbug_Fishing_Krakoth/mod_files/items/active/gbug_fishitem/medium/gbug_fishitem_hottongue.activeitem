@@ -1,21 +1,20 @@
 {
-  "itemName" : "gbug_fishitem_tongue",
+  "itemName" : "gbug_fishitem_hottongue",
   "price" : 1500,
   "level" : 1,
   "rarity" : "Rare",
   "category" : "Fish",
   "tooltipKind" : "tool",
-  "description" : "The coldest of tonguiles.",
-  "shortdescription" : "Hermit Tonguile",
+  "description" : "The most sociable of tonguiles.",
+  "shortdescription" : "Thermal Tonguile",
   "twoHanded" : false,
   "itemTags" : ["fish"],
-  "inventoryIcon" : "gbug_fishitem_tongue.png:idle",
-  "largeImage" : "gbug_fishitem_tongue.png:idle",
-  "learnBlueprintsOnPickup" : ["gbug_fishtrophy_tongue"],
-
+  "inventoryIcon" : "gbug_fishitem_hottongue.png:idle",
+  "largeImage" : "gbug_fishitem_hottongue.png:idle",
+  "learnBlueprintsOnPickup" : ["gbug_fishtrophy_hottongue"],
   "animation" : "gbug_fishitem_medium.animation",
   "animationParts" : {
-    "bugnet" : "gbug_fishitem_tongue.png",
+    "bugnet" : "gbug_fishitem_hottongue.png",
     "swoosh" : "gbug_fishitem_swoosh_medium.png"
   },
 

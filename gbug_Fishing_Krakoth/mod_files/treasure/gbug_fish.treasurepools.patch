@@ -1,0 +1,122 @@
+[
+  {
+    "op": "add",
+    "path": "/gbug_fishingcththonicshrimp",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_cththonicshrimp"},
+            {"pool": "fishingcommon"}
+          ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishingshallowone",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_shallowone"},
+            {"pool": "fishingcommon"}
+          ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishingbassathoth",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_bassathoth"},
+            {"pool": "fishingcommon"}
+          ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishinginferneel",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_inferneel"},
+            {"pool": "fishinguncommon"}
+          ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishingspectrout",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_spectrout"},
+            {"pool": "fishinguncommon"}
+          ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishingtidewarper",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_tidewarper"},
+            {"pool": "fishinguncommon"}
+          ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishinghottongue",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_hottongue"},
+            {"pool": "fishingrare"}
+          ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishingaethersquid",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_aethersquid"},
+            {"pool": "fishingrare"}
+          ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishingumbray",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_umbray"},
+            {"pool": "fishingrare"}
+          ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishingtrokath",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_trokath"},
+            {"pool": "fishinglegendary"}
+          ]
+    }]]
+  }
+]

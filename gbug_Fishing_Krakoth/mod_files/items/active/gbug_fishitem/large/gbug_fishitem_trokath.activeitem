@@ -1,22 +1,21 @@
 {
-  "itemName" : "gbug_fishitem_tongue",
-  "price" : 1500,
+  "itemName" : "gbug_fishitem_trokath",
+  "price" : 20000,
   "level" : 1,
-  "rarity" : "Rare",
+  "rarity" : "Legendary",
   "category" : "Fish",
   "tooltipKind" : "tool",
-  "description" : "The coldest of tonguiles.",
-  "shortdescription" : "Hermit Tonguile",
-  "twoHanded" : false,
+  "description" : "Lord of the Aquarium.",
+  "shortdescription" : "T'Rokath",
+  "twoHanded" : true,
   "itemTags" : ["fish"],
-  "inventoryIcon" : "gbug_fishitem_tongue.png:idle",
-  "largeImage" : "gbug_fishitem_tongue.png:idle",
-  "learnBlueprintsOnPickup" : ["gbug_fishtrophy_tongue"],
-
-  "animation" : "gbug_fishitem_medium.animation",
+  "inventoryIcon" : "gbug_fishitem_trokath.png:idle",
+  "largeImage" : "gbug_fishitem_trokath.png:idle",
+  "learnBlueprintsOnPickup" : ["gbug_fishtrophy_trokath"],
+  "animation" : "gbug_fishitem_large.animation",
   "animationParts" : {
-    "bugnet" : "gbug_fishitem_tongue.png",
-    "swoosh" : "gbug_fishitem_swoosh_medium.png"
+    "bugnet" : "gbug_fishitem_trokath.png",
+    "swoosh" : "gbug_fishitem_swoosh_large.png"
   },
 
   "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
@@ -28,12 +27,12 @@
     "class" : "MeleeSlash",
 
     "fireTime" : 0.4,
-    "baseDps" : 1,
+    "baseDps" : 10,
 
     "damageConfig" : {
       "damageSourceKind" : "default",
       "statusEffects" : [ ],
-      "knockback" : 15,
+      "knockback" : 30,
       "knockbackMode" : "facing",
       "timeoutGroup" : "primary"
     },
@@ -51,19 +50,19 @@
 
         "allowRotate" : false,
         "allowFlip" : true,
-
+        "twoHanded" : true,
         "animationStates" : {
           "net" : "hang"
         }
       },
       "fire" : {
-        "duration" : 0.5,
+        "duration" : 0.8,
         "armRotation" : -40,
         "weaponRotation" : -65,
 
         "allowRotate" : false,
         "allowFlip" : false,
-
+        "twoHanded" : true,
         "animationStates" : {
           "net" : "swing"
         }

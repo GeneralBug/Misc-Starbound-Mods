@@ -2,6 +2,6 @@
   "version" : "1.0",
   "author" : "GeneralBug",
   "name" : "gbug_Fishing_Krakoth",
-  "friendlyName" : "Fishing Mod K'Rakoth Patch",
+  "friendlyName" : "Emi's Fabulous Fishatorium: K'Rakoth Patch",
   "includes" : ["gbug_Fishing", "precursorracekrakoth"]
 }
