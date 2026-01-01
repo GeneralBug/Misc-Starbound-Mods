@@ -1,0 +1,16 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Fishing_Starry/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_Fishing_Starry/preview.png"
+	"visibility"		"0"
+	"title"		"Emi's Fabulous Fishatorium: Starry Planets Patch"
+	"description"		"Pointy fish!
+	
+[h2]OVERVIEW:[/h2][list]
+[*]Adds parity to the new fish found on starry oceans!
+[*]Adjusts the recipe of the starry fishing rod to require a durasteel one to simplify potential progression weirdness.
+[*]That's it!
+[/list]"
+	"publishedfileid"		"3636425111"
+}

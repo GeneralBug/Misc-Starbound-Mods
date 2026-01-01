@@ -1,0 +1,21 @@
+[
+  {
+    "op": "test",
+    "path": "/input/1/item",
+    "value": "durasteelbar"
+  },
+  {
+    "op": "remove",
+    "path": "/input/1"
+  },
+  {
+    "op": "replace",
+    "path": "/input/2/item",
+    "value": "durablefishingrod"
+  },
+  {
+    "op": "replace",
+    "path": "/input/2/count",
+    "value": 1
+  }
+]

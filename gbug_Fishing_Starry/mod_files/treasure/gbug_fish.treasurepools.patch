@@ -1,0 +1,38 @@
+[
+  {
+    "op": "add",
+    "path": "/gbug_fishingstar1",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_star1"},
+            {"pool": "fishingcommon"}
+          ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishingstar2",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_star2"},
+            {"pool": "fishinguncommon"}
+          ]
+    }]]
+  },  
+  {
+    "op": "add",
+    "path": "/gbug_fishingstar3",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_star3"},
+            {"pool": "fishingrare"}
+          ]
+    }]]
+  }
+]

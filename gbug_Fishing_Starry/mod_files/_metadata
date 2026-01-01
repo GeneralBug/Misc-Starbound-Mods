@@ -1,0 +1,7 @@
+{
+  "version" : "1.0",
+  "author" : "GeneralBug",
+  "name" : "gbug_Fishing_Starry",
+  "friendlyName" : "Emi's Fabulous Fishatorium: Starry Planets Patch",
+  "includes" : ["gbug_Fishing", "StarryPlanet"]
+}
