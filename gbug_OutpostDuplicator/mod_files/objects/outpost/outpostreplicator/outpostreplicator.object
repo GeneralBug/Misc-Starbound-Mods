@@ -1,0 +1,170 @@
+{
+  "objectName" : "outpostreplicator",
+  "colonyTags" : ["crafting", "outpost"],
+  "rarity" : "Legendary",
+  "race" : "generic",
+  "category" : "crafting",
+
+  //this is handled by the lua
+  "breakDropOptions" : [],
+
+  "price" : 5000,
+  "printable" : false,
+
+  "scripts" : [ "/objects/crafting/upgradeablecraftingobjects/upgradeablecraftingobject.lua" ],
+
+  "animation" : "outpostreplicator.animation",
+  "animationPosition" : [-24, 0],
+  
+  "inventoryIcon" : "outpostreplicatoricon.png",
+  "placementImage" : "outpostreplicator.png:default.default",
+  "placementImagePosition" : [-24, 0],    
+
+  "craftingSound" : "/sfx/interface/crafting_tech1.ogg",
+
+  "description": "This advanced replicator can produce accelerator, separator and manipulator equipment.",
+  "shortdescription": "^orange;Advanced Replicator^white;",
+  
+  "apexDescription": "A replicator. I can create high quality equipment with this.",
+  "avianDescription": "I can turn ores into good quality equipment from here.",
+  "floranDescription": "Floran make ssstrong weapon here.",
+  "glitchDescription": "Neutral. I can make equipment and more with this.",
+  "humanDescription": "I can create super strong equipment from this replicator.",
+  "hylotlDescription": "This replicator enables me to create high quality equipment from good quality materials.",
+  "novakidDescription": "I can make myself some great equipment using this replicator.",
+
+  "learnBlueprintsOnPickup" : [],
+
+  "startingUpgradeStage" : 1,
+  "maxUpgradeStage" : 2,
+
+  "upgradeStages" : [
+    {
+      "animationState" : "advanced",
+      
+      "itemSpawnParameters" : {
+        "inventoryIcon" : "outpostreplicatoricon.png",
+        "placementImage" : "outpostreplicator.png:default.default",
+        "placementImagePosition" : [-24, 0],    
+
+        "description": "This advanced replicator can produce accelerator, separator and manipulator equipment.",
+        "shortdescription" : "^orange;Advnaced Replicator^white;",
+
+        "apexDescription": "A replicator. I can create high quality equipment with this.",
+        "avianDescription": "I can turn ores into good quality equipment from here.",
+        "floranDescription": "Floran make ssstrong weapon here.",
+        "glitchDescription": "Neutral. I can make equipment and more with this.",
+        "humanDescription": "I can create super strong equipment from this replicator.",
+        "hylotlDescription": "This replicator enables me to create high quality equipment from good quality materials.",
+        "novakidDescription": "I can make myself some great equipment using this replicator.",
+       "collision" : "platform"    
+      },
+
+      "interactData" : {
+        "config" : "/interface/windowconfig/craftinganvil.config",
+        "paneLayoutOverride" : {
+          "windowtitle" : {
+            "title" : " Advanced Replicator",
+            "subtitle" : " ^#b9b5b2;Armour and weapons",
+            "icon" : {
+              "file" : "/interface/crafting/craftinganvil3.png"
+            }
+          }
+        },
+
+        "filter": [
+          "craftinganvil",
+          "craftinganvil2",
+          "craftinganvil3",
+          "craftingaccelerator",
+          "craftingseparator",
+          "craftingmanipulator",
+          "craftingconstructor"
+        ],
+        "initialRecipeUnlocks" : [],
+        "upgradeMaterials": [
+          {"item": "pf_duplicatoraddon", "count": 1},
+          {"item": "pf_ancientrock", "count": 10},
+          {"item": "pf_pureessence", "count": 1}
+        ]
+      },
+
+      "learnBlueprintsOnPickup" : [],
+
+      "upgradeSoundEffect" : "fanfare2",
+      "upgradeParticleEffect" : "dust"
+    },
+
+    {
+      "animationState" : "ancient",
+      
+      "itemSpawnParameters" : {
+        "price" : 6000,
+        "inventoryIcon" : "ancientreplicatoricon.png",
+        "placementImage" : "ancientreplicator.png:default.default",
+        "placementImagePosition" : [-24, 0],    
+
+        "description" : "This advanced replicator has been augmented with ancient technology; who knows what it can make!",
+        "shortdescription" : "^violet;Ancient Replicator^white;",
+
+        "apexDescription": "A replicator. I can create high quality equipment with this.",
+        "avianDescription": "I can turn ores into good quality equipment from here.",
+        "floranDescription": "Floran make ssstrong weapon here.",
+        "glitchDescription": "Neutral. I can make equipment and more with this.",
+        "humanDescription": "I can create super strong equipment from this replicator.",
+        "hylotlDescription": "This replicator enables me to create high quality equipment from good quality materials.",
+        "novakidDescription": "I can make myself some great equipment using this replicator.",
+        "collision" : "platform"
+      },
+
+      "interactData" : {
+        "config" : "/interface/windowconfig/craftinganvil.config",
+        "paneLayoutOverride" : {
+          "windowtitle" : {
+            "title" : " Ancient Replicator",
+            "subtitle" : " ^#b9b5b2;Armour and weapons",
+            "icon" : {
+              "file" : "/interface/crafting/pf_duplicatoricon.png"
+            }
+          }
+        },
+        "filter": [
+          "craftinganvil",
+          "craftinganvil2",
+          "craftinganvil3",
+          "craftingaccelerator",
+          "craftingseparator",
+          "craftingmanipulator",
+          "craftingconstructor",
+          "pf_craftingduplicator"
+        ],
+        "initialRecipeUnlocks" : []
+      },
+
+      "learnBlueprintsOnPickup" : [],
+
+      "upgradeSoundEffect" : "fanfare2",
+      "upgradeParticleEffect" : "dust"
+    }
+  ],
+
+  "orientations" : [
+    {
+      "image" : "outpostreplicator.png:<color>.<frame>",
+      "collision" : "platform",
+      "imagePosition" : [-24, 0], 
+      "direction" : "left",
+      "flipImages" : true,
+      "anchors" : [ "bottom" ],
+      "spaceScan" : 0.1
+    },
+    {
+      "image" : "outpostreplicator.png:<color>.<frame>",
+      "collision" : "platform",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+      "anchors" : [ "bottom" ],
+      "spaceScan" : 0.1
+    }
+  ]
+}

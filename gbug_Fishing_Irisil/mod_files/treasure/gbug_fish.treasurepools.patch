@@ -10,5 +10,29 @@
             {"pool": "fishingcommon"}
           ]
     }]]
+  },
+  {
+    "op": "add",
+    "path": "/gbug_fishingmedjed",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_medjed"},
+            {"pool": "fishingcommon"}
+          ]
+    }]]
+  },  
+  {
+    "op": "add",
+    "path": "/gbug_fishingcrownedmedjed",
+    "value": 
+    [[0,{
+          "fill": 
+          [
+            {"item": "gbug_fishitem_crownedmedjed"},
+            {"pool": "fishinguncommon"}
+          ]
+    }]]
   }
 ]

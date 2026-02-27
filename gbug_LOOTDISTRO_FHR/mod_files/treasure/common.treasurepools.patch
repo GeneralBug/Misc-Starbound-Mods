@@ -143,7 +143,7 @@
         "op": "add","path": "/costume/0/1/pool/-","value": 
         {
             "weight": 0.0003,
-            "item": ["FHR-spore" ,1]
+            "pool": "FHR-spore"
         }
     },    
     {

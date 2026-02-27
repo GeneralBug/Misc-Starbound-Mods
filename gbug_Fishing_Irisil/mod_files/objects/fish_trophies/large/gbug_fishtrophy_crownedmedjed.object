@@ -1,0 +1,48 @@
+{
+  "objectName" : "gbug_fishtrophy_crownedmedjed",
+  "colonyTags" : ["fish","fishing","lofty_irisil","egyptian"],
+  "rarity" : "Uncommon",
+  "description" : "'Ancient traditions forbid the use of the meat of these fish as bait to catch more fish.'",
+  "shortdescription" : "Nefermedjed Trophy",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 1000,
+  "printable" : false,
+  
+  "inventoryIcon" : "largeicon.png",
+  "orientations" : [
+    {
+      "image" : "gbug_fishtrophy_crownedmedjed.png:<color>.<frame>",
+
+      "imagePosition" : [-20, -16],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "gbug_fishtrophy_crownedmedjed.png:<color>.<frame>",
+
+      "imagePosition" : [-20, -16],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "gbug_fishtrophy_crownedmedjed.png"
+  },
+  "animationPosition" : [-20, -16],
+  "scripts" : [ "/objects/fish_trophies/fish_trophy.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : true,
+
+  "inputNodes" : [ [0, 0] ]
+}

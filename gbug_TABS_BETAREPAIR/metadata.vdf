@@ -1,0 +1,10 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_BETAREPAIR/contents"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_TABS_BETAREPAIR/preview.png"
+	"visibility"		"0"
+	"title"		"[Many Tabs] Repair Tools"
+	"description"		"Adds a tab for the standalone version of the Betabound repair tools to Handcrafting Expansion, requires Many Tabs ([b]or[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3659637859]Crafting Overhaul[/url])."
+	"publishedfileid"		"2844115488"
+}
