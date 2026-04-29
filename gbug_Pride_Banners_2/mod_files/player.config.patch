@@ -14,5 +14,7 @@
     { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_femboybanner"}},
     { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_femboybanner_small"}},
     { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_bearbanner"}},
-    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_bearbanner_small"}}
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_bearbanner_small"}},    
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_aroacebanner"}},
+    { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : {"item":"gbug_aroacebanner_small"}}
 ]

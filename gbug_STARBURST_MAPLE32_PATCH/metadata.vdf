@@ -2,9 +2,13 @@
 {
 	"appid"		"211820"
 	"contentfolder"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_STARBURST_MAPLE32_PATCH/contents"
-	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_STARBURST_MAPLE32_PATCH/_previewimage"
+	"previewfile"		"/media/harddisk/PROJECTS/Misc-Starbound-Mods/gbug_STARBURST_MAPLE32_PATCH/preview.png"
 	"visibility"		"0"
 	"title"		"Starburst Maple32 Augment Patch"
-	"description"		"Patches Maple32 augments for Starburst Rework!"
+	"description"		"Patches Maple32 augments for Starburst Rework! In particular:
+- Moves them all to the hazard table
+- Removes the recipe for the Maple32 radiation augment, as it's functionally identical to the Starburst one, which now requires verdinoct bars like the Maple32 one
+- The air capacity augment is treated as the minor version of the oxygen augment, which now takes it as an ingredient and is moved to the second crafting station tier. Also the recipe now includes living root to fit with the others
+- Updated some item descriptions to be more consistent"
 	"publishedfileid"		"3599481646"
 }

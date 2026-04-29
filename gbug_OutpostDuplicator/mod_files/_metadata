@@ -1,7 +1,7 @@
 {
   "author" : "GeneralBug",
   "description" : "gbug_OutpostDuplicator",
-  "friendlyName" : "gbug_OutpostDuplicator",
+  "friendlyName" : "Anceint Cosmos/More Outpost Objects Advanced Replicator Patch",
   "link" : "",
   "name" : "gbug_OutpostDuplicator",
   "includes" : ["More Outpost Objects", "Project Ancient Cosmos"],
